@@ -1,0 +1,28 @@
+{
+  "name": "vocabularybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rikki007/vocabularyBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rikki007/vocabularyBot/issues"
+  },
+  "homepage": "https://github.com/Rikki007/vocabularyBot#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dayjs": "^1.11.13",
+    "dotenv": "^17.2.1",
+    "googleapis": "^155.0.0",
+    "lodash": "^4.17.21",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}

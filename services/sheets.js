@@ -13,7 +13,9 @@ async function fetchVocabulary() {
       from_line: 2,
     });
 
-    return records;
+    const cleanRecords = records.filter(r => r.Word?.trim() && r.Translation?.trim());
+
+    return cleanRecords;
   } catch (error) {
     console.error('Ошибка при загрузке таблицы:', error.message);
     return [];

@@ -1,9 +1,9 @@
 const { fetchVocabulary } = require('../../services/sheets');
-const { generateQuiz } = require('../../utils/wordSelector');
+const { generateIrrQuiz } = require('../../utils/wordIrrSelector');
 
 module.exports = (bot) => {
-    bot.onText(/\/quiz/, async (msg) => {
-        const quiz = await generateQuiz(msg);
+    bot.onText(/\/irr/, async (msg) => {
+        const quiz = await generateIrrQuiz(msg);
         bot.sendMessage(msg.chat.id, quiz.text, quiz.options);
     });
 };

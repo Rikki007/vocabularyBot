@@ -11,7 +11,7 @@ async function generateQuiz(msg) {
         .sort(() => 0.5 - Math.random())
         .slice(0, 3);
 
-    const options = [...distractors, correct].sort(() => 0.5 * Math.random());
+    const options = [...distractors, correct].sort(() => 0.5 - Math.random());
 
     const buttons = options.map(opt => [{
         text: opt.Translation,

@@ -7,7 +7,7 @@ module.exports = (bot) => {
         const chatId = msg.chat.id;
         const text = msg.text;
 
-        if (text.startsWith('/')) return;
+        if (typeof text !== 'string' || text.startsWith('/')) return;
 
         const recall = await bot.sendMessage(chatId, `Вспоминаю, что это значит.`)
         const explanationOfWord = await explanation(text);

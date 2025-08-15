@@ -10,7 +10,7 @@ async function fetchVocabulary() {
     const records = parse(response.data, {
       columns: ['✓', 'Word', 'Translation', 'Ignored'],
       skip_empty_lines: true,
-      from_line: 2,
+      from_line: 3,
     });
 
     const cleanRecords = records.filter(r => r.Word?.trim() && r.Translation?.trim());

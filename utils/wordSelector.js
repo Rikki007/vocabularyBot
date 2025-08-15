@@ -1,10 +1,19 @@
-const { fetchVocabulary } = require('../services/sheets');
+const session = require('../state/sessionState');
 
 async function generateQuiz(msg) {
-    const words = await fetchVocabulary();
-    const cleanWords = words.filter(item => item.Word?.trim() && item.Translation.trim());
 
-    const correct = cleanWords[Math.floor(Math.random() * cleanWords.length)];
+    const cleanWords = session.vocabularyQueue.filter(item => item.Word?.trim() && item.Translation.trim());
+
+    const correct = cleanWords.shift();
+    session.vocabularyQueue.shift();
+
+    if (!correct) {
+        session.quizActive = false;
+        return {
+        text: '🎉 Квиз завершён! Все слова пройдены.',
+        options: {}
+        };
+    }
 
     const distractors = cleanWords
         .filter(item => item.Translation !== correct.Translation)

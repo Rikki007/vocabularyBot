@@ -1,8 +1,11 @@
 const { irregularVerbs } = require('../services/irrSheet');
+const session = require('../state/sessionState');
 
  async function generateIrrQuiz(msg) {
 
-    const correct = irregularVerbs[Math.floor(Math.random() * irregularVerbs.length)];
+    const correct = session.irregularQueue.shift();
+    session.irregularQueue.shift();
+
     const distractors = irregularVerbs
         .filter(item => item.translation !== correct.translation)
         .sort(() => 0.5 - Math.random())

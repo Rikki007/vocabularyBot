@@ -11,13 +11,13 @@ module.exports = (bot) => {
             await bot.answerCallbackQuery(id);
 
             if (data === 'correct') {
-                await bot.sendMessage(chatId, '✅ Верно! Молодец!');
+                await bot.sendMessage(chatId, '✅');
                 const quiz = await generateQuiz({ chat: { id: chatId } });
                 await bot.sendMessage(chatId, quiz.text, quiz.options);
             }
 
             if (data === 'wrong') {
-                const loadingMessage = await bot.sendMessage(chatId, '🤖 Неверно, думаю над подсказкой...');
+                const loadingMessage = await bot.sendMessage(chatId, '🤖');
                 const clueToWord = message.text.split(':')[1]?.trim();
                 const hint = await clue(clueToWord);
                 await bot.deleteMessage(chatId, loadingMessage.message_id);
@@ -25,13 +25,13 @@ module.exports = (bot) => {
             }
 
             if (data === 'correctIrr') {
-                await bot.sendMessage(chatId, '✅ Верно! Молодец!');
+                await bot.sendMessage(chatId, '✅');
                 const quiz = await generateIrrQuiz({ chat: { id: chatId } });
                 await bot.sendMessage(chatId, quiz.text, quiz.options);
             }
 
             if (data === 'wrongIrr') {
-                const loadingMessage = await bot.sendMessage(chatId, '🤖 Неверно, думаю над подсказкой...');
+                const loadingMessage = await bot.sendMessage(chatId, '🤖');
                 const clueToWord = message.text.split(':')[1].split('-')[0].trim();
                 const hint = await clue(clueToWord);
                 await bot.deleteMessage(chatId, loadingMessage.message_id);

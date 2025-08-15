@@ -6,6 +6,14 @@ const session = require('../state/sessionState');
     const correct = session.irregularQueue.shift();
     session.irregularQueue.shift();
 
+    if (!correct) {
+        session.quizActive = false;
+        return {
+        text: '🎉 Квиз завершён! Все слова пройдены.',
+        options: {}
+        };
+    }
+
     const distractors = irregularVerbs
         .filter(item => item.translation !== correct.translation)
         .sort(() => 0.5 - Math.random())

@@ -7,8 +7,6 @@ async function generateQuiz(msg) {
     const correct = cleanWords.shift();
     session.vocabularyQueue.shift();
 
-    console.log(session.vocabularyQueue.length)
-
     if (!correct) {
         session.quizActive = false;
         return {

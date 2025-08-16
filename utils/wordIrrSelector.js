@@ -4,7 +4,6 @@ const session = require('../state/sessionState');
  async function generateIrrQuiz(msg) {
 
     const correct = session.irregularQueue.shift();
-    session.irregularQueue.shift();
 
     if (!correct) {
         session.quizActive = false;

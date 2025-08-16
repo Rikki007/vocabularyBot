@@ -9,7 +9,7 @@ module.exports = (bot) => {
         session.vocabularyQueue = [];
         session.quizActive = false;
 
-        const words = irregularVerbs;
+        const words = [...irregularVerbs];
         session.irregularQueue = words.sort(() => 0.5 - Math.random());
         session.irregularQuizActive = true;
 

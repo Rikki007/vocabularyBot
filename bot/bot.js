@@ -5,6 +5,7 @@ const bot = new TelegramBot(token, { polling: true });
 require('./comands/quiz')(bot);
 require('./comands/quizIrr')(bot);
 require('./comands/comands')(bot);
+require('./comands/syncComand')(bot);
 require('./handlers/callbackHandler')(bot);
 require('./handlers/messageHandler')(bot);
 

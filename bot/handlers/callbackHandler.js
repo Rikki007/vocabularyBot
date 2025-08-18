@@ -1,6 +1,8 @@
 const { generateQuiz } = require('../../utils/wordSelector');
 const { generateIrrQuiz } = require('../../utils/wordIrrSelector');
 const { clue } = require('../../utils/aiResponse');
+const { updateRating } = require('../../utils/ratingService');
+const session = require('../../state/sessionState');
 
 module.exports = (bot) => {
     bot.on('callback_query', async (query) => {
@@ -12,11 +14,21 @@ module.exports = (bot) => {
 
             if (data === 'correct') {
                 await bot.sendMessage(chatId, '✅');
+
+                if (session.lastWord) {
+                    await updateRating(session.lastWord.word, 1);
+                }
+
                 const quiz = await generateQuiz({ chat: { id: chatId } });
                 await bot.sendMessage(chatId, quiz.text, quiz.options);
             }
 
             if (data === 'wrong') {
+
+                if (session.lastWord) {
+                    await updateRating(session.lastWord.word, -2);
+                }
+
                 const loadingMessage = await bot.sendMessage(chatId, '🤖');
                 const clueToWord = message.text.split(':')[1]?.trim();
                 const hint = await clue(clueToWord);

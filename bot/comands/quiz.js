@@ -1,19 +1,33 @@
-const { fetchVocabulary } = require('../../services/sheets');
+const fs = require('fs').promises;
+const path = require('path');
 const { generateQuiz } = require('../../utils/wordSelector');
 const session = require('../../state/sessionState');
+const { ratingTracker } = require('../../utils/ratingDecay');
+
+const VOCAB_PATH = path.join(__dirname, '../../state/vocabulary.json');
+
+async function loadVocabulary() {
+  const data = await fs.readFile(VOCAB_PATH, 'utf-8');
+  return JSON.parse(data);
+}
 
 module.exports = (bot) => {
-    bot.onText(/\/quiz/, async (msg) => {
-        const chatId = msg.chat.id;
+  bot.onText(/\/quiz/, async (msg) => {
+    const chatId = msg.chat.id;
 
-        session.irregularQueue = [];
-        session.irregularQuizActive = false;
+    session.irregularQueue = [];
+    session.irregularQuizActive = false;
 
-        const words = await fetchVocabulary();
-        session.vocabularyQueue = words.sort(() => 0.5 - Math.random());
-        session.quizActive = true;
+    await ratingTracker();
 
-        const quiz = await generateQuiz({ chat: { id: chatId } });
-        bot.sendMessage(chatId, quiz.text, quiz.options);
-    });
+    const words = await loadVocabulary();
+
+    const lowest40 = [...words].sort((a, b) => a.rating - b.rating).slice(0, 40).sort(() => 0.5 - Math.random());
+
+    session.vocabularyQueue = lowest40;
+    session.quizActive = true;
+
+    const quiz = await generateQuiz({ chat: { id: chatId } });
+    bot.sendMessage(chatId, quiz.text, quiz.options);
+  });
 };

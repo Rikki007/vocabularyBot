@@ -15,6 +15,8 @@ async function fetchVocabulary() {
 
     const cleanRecords = records.filter(r => r.Word?.trim() && r.Translation?.trim());
 
+    console.log(cleanRecords)
+
     return cleanRecords;
   } catch (error) {
     console.error('Ошибка при загрузке таблицы:', error.message);

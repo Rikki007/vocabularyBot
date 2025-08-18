@@ -1,4 +1,4 @@
-const { irregularVerbs } = require('../services/irrSheet');
+const irregularVerbs = require('../state/irrSheet.json');
 const session = require('../state/sessionState');
 
  async function generateIrrQuiz(msg) {

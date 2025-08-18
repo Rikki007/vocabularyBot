@@ -2,9 +2,10 @@ const session = require('../state/sessionState');
 
 async function generateQuiz(msg) {
 
-    const cleanWords = session.vocabularyQueue.filter(item => item.Word?.trim() && item.Translation.trim());
+    const cleanWords = session.vocabularyQueue.filter(item => item.word?.trim() && item.translation.trim());
 
     const correct = cleanWords.shift();
+    session.lastWord = correct;
     session.vocabularyQueue.shift();
 
     if (!correct) {
@@ -16,26 +17,26 @@ async function generateQuiz(msg) {
     }
 
     const distractors = cleanWords
-        .filter(item => item.Translation !== correct.Translation)
+        .filter(item => item.translation !== correct.translation)
         .sort(() => 0.5 - Math.random())
         .slice(0, 3);
 
     const options = [...distractors, correct].sort(() => 0.5 - Math.random());
 
     const buttons = options.map(opt => [{
-        text: opt.Translation,
-        callback_data: opt.Translation === correct.Translation ? 'correct' : 'wrong'
+        text: opt.translation,
+        callback_data: opt.translation === correct.translation ? 'correct' : 'wrong'
     }]);
 
     return {
-        text: `❓ Что означает слово: *${correct.Word}*`,
+        text: `❓ Что означает слово: *${correct.word}*`,
         options: {
             parse_mode: 'Markdown',
             reply_markup: {
                 inline_keyboard: buttons
             }
         },
-        correctWord: correct.Word
+        correctWordObj: correct
     };
 }
 

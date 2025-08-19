@@ -13,7 +13,7 @@ async function explanation(word) {
     Перевод примера - ...`;
 
     if (!apiKey) {
-        console.error('❌ AI_API_KEY не найден в .env');
+        console.error('AI_API_KEY не найден в .env');
         return '⚠️ Не удалось получить объяснение.';
     }
 

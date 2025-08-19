@@ -29,7 +29,7 @@ async function generateQuiz(msg) {
     }]);
 
     return {
-        text: `❓ Что означает слово: *${correct.word}*`,
+        text: `Что означает слово: *${correct.word}*`,
         options: {
             parse_mode: 'Markdown',
             reply_markup: {

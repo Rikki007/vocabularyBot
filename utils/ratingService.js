@@ -27,7 +27,7 @@ async function updateRating(word, delta) {
       await fs.writeFile(VOCAB_PATH, JSON.stringify(words, null, 2), 'utf-8');
     }
   } catch (err) {
-    console.error('❌ Ошибка при обновлении рейтинга:', err);
+    console.error('Ошибка при обновлении рейтинга:', err);
   }
 }
 

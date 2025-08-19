@@ -33,7 +33,7 @@ module.exports = (bot) => {
                 const clueToWord = message.text.split(':')[1]?.trim();
                 const hint = await clue(clueToWord);
                 await bot.deleteMessage(chatId, loadingMessage.message_id);
-                await bot.sendMessage(chatId, `💡 Подсказка:\n${hint}`);
+                await bot.sendMessage(chatId, `Подсказка:\n${hint}`);
             }
 
             if (data === 'correctIrr') {
@@ -47,7 +47,7 @@ module.exports = (bot) => {
                 const clueToWord = message.text.split(':')[1].split('-')[0].trim();
                 const hint = await clue(clueToWord);
                 await bot.deleteMessage(chatId, loadingMessage.message_id);
-                await bot.sendMessage(chatId, `💡 Подсказка:\n${hint}`);
+                await bot.sendMessage(chatId, `Подсказка:\n${hint}`);
             }
         } catch (error) {
             console.error('❌ Ошибка в обработке callback_query:', error);

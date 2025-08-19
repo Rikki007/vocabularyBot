@@ -7,7 +7,7 @@ async function translation(word) {
     const prompt = `Перевод слова "${word}" на русский. Краткий лаконичный ответ.`;
 
     if (!apiKey) {
-        console.error('❌ AI_API_KEY не найден в .env');
+        console.error('AI_API_KEY не найден в .env');
         return '⚠️ Не удалось получить объяснение.';
     }
 

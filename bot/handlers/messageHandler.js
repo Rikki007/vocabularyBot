@@ -22,7 +22,7 @@ module.exports = (bot) => {
             const checkVocab = await bot.sendMessage(chatId, `Проверяю твой словарь.`) 
             const words = await fetchVocabulary();
 
-            if (words.some(item => item.Word.trim().toLowerCase() === text.trim().toLowerCase())) {
+            if (words.some(item => item.word.trim().toLowerCase() === text.trim().toLowerCase())) {
                 await bot.editMessageText(`данное слово присутствует в твоем словаре`, {
                     chat_id: chatId,
                     message_id: checkVocab.message_id,

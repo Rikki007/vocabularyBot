@@ -22,9 +22,13 @@ module.exports = (bot) => {
 
     const words = await loadVocabulary();
 
-    const lowest40 = [...words].sort((a, b) => a.rating - b.rating).slice(0, 40).sort(() => 0.5 - Math.random());
+    const lowest20 = [...words].sort((a, b) => a.rating - b.rating).slice(0, 20);
 
-    session.vocabularyQueue = lowest40;
+    bot.sendMessage(chatId, JSON.stringify(
+      lowest20.map(item => ({ word: item.word, translation: item.translation, rating: item.rating})
+    ), null, 2));
+
+    session.vocabularyQueue = lowest20;
     session.quizActive = true;
 
     const quiz = await generateQuiz({ chat: { id: chatId } });

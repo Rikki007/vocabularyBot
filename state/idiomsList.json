@@ -1,0 +1,3602 @@
+[
+    {
+        "id": "idiom_001",
+        "idiom": "break the ice",
+        "translation": "разрядить обстановку, начать разговор",
+        "meaning": "To initiate conversation in a social setting and reduce tension.",
+        "example_1": "He told a joke to break the ice at the beginning of the meeting.",
+        "example_2": "A fun activity helped the students break the ice on the first day of class.",
+        "level": "B1",
+        "tags": ["общение", "социальные ситуации"],
+        "usage": "informal",
+        "quiz_options": [
+            "To start a fight",
+            "To begin a conversation and ease tension",
+            "To go outside in cold weather",
+            "To break something physically"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_002",
+        "idiom": "rain cats and dogs",
+        "translation": "лить как из ведра",
+        "meaning": "To rain very heavily.",
+        "example_1": "We had to cancel the picnic because it was raining cats and dogs.",
+        "example_2": "It’s raining cats and dogs — don’t forget your umbrella!",
+        "level": "B2",
+        "tags": ["погода", "описание"],
+        "usage": "informal",
+        "quiz_options": [
+        "To walk pets in the rain",
+        "To rain lightly",
+        "To rain very heavily",
+        "To have a storm with animals"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_003",
+        "idiom": "face like thunder",
+        "translation": "мрачнее тучи",
+        "meaning": "To look extremely angry or upset.",
+        "example_1": "When she saw the broken vase, she had a face like thunder.",
+        "example_2": "He walked into the room with a face like thunder after hearing the bad news.",
+        "level": "B2",
+        "tags": ["эмоции", "выражение лица"],
+        "usage": "informal",
+        "quiz_options": [
+        "To look confused",
+        "To look very angry",
+        "To look happy",
+        "To look tired"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_004",
+        "idiom": "storm in a teacup",
+        "translation": "буря в стакане воды",
+        "meaning": "A lot of fuss about something unimportant.",
+        "example_1": "Their argument was just a storm in a teacup — nothing serious.",
+        "example_2": "The media turned a minor issue into a storm in a teacup.",
+        "level": "C1",
+        "tags": ["конфликт", "преувеличение"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A serious problem",
+        "A small issue blown out of proportion",
+        "A weather forecast",
+        "A tea-related accident"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_005",
+        "idiom": "chase rainbows",
+        "translation": "гнаться за недостижимым",
+        "meaning": "To pursue unrealistic or impossible goals.",
+        "example_1": "He’s always chasing rainbows instead of focusing on real opportunities.",
+        "example_2": "Trying to become famous overnight is just chasing rainbows.",
+        "level": "C1",
+        "tags": ["цели", "мечты"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To follow a colorful path",
+        "To pursue realistic goals",
+        "To chase impossible dreams",
+        "To run in the rain"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_006",
+        "idiom": "lightning-fast",
+        "translation": "молниеносный",
+        "meaning": "Extremely fast or quick.",
+        "example_1": "Her reaction to the question was lightning-fast.",
+        "example_2": "The new processor makes the computer lightning-fast.",
+        "level": "B2",
+        "tags": ["скорость", "реакция"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Very slow",
+        "Extremely fast",
+        "Related to electricity",
+        "Dangerous and unpredictable"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_007",
+        "idiom": "have one's head in the clouds",
+        "translation": "витать в облаках",
+        "meaning": "To be out of touch with reality or lost in daydreams.",
+        "example_1": "She always has her head in the clouds during meetings.",
+        "example_2": "Stop daydreaming — you’ve got your head in the clouds again!",
+        "level": "B2",
+        "tags": ["мышление", "отвлечённость"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be very focused",
+        "To be unrealistic or daydreaming",
+        "To be angry",
+        "To be sleepy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_008",
+        "idiom": "be snowed under",
+        "translation": "быть перегруженным работой",
+        "meaning": "To be overwhelmed with too much work or tasks.",
+        "example_1": "I’m snowed under with deadlines this week.",
+        "example_2": "She was snowed under and couldn’t attend the meeting.",
+        "level": "B2",
+        "tags": ["работа", "нагрузка"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be on vacation",
+        "To be overwhelmed with work",
+        "To be stuck in snow",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_009",
+        "idiom": "be under the weather",
+        "translation": "недомогать",
+        "meaning": "To feel slightly ill or unwell.",
+        "example_1": "I’m feeling under the weather today, so I’ll stay home.",
+        "example_2": "She looked under the weather and left early.",
+        "level": "B1",
+        "tags": ["здоровье", "самочувствие"],
+        "usage": "informal",
+        "quiz_options": [
+        "To feel great",
+        "To be outside in bad weather",
+        "To feel unwell",
+        "To be angry"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_010",
+        "idiom": "twist in the wind",
+        "translation": "томиться",
+        "meaning": "To be left in a vulnerable or uncertain situation without support.",
+        "example_1": "He was left to twist in the wind after the team abandoned him.",
+        "example_2": "Without clear instructions, the interns twisted in the wind.",
+        "level": "C1",
+        "tags": ["уязвимость", "ожидание"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be supported",
+        "To be left uncertain and exposed",
+        "To dance in the wind",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_011",
+        "idiom": "under a cloud",
+        "translation": "под подозрением",
+        "meaning": "To be suspected of wrongdoing or dishonesty.",
+        "example_1": "He left the company under a cloud after the audit.",
+        "example_2": "She’s under a cloud because of the missing funds.",
+        "level": "C1",
+        "tags": ["подозрение", "репутация"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be very happy",
+        "To be suspected of something",
+        "To be outside in bad weather",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_012",
+        "idiom": "as right as rain",
+        "translation": "в полном порядке",
+        "meaning": "To feel perfectly fine or healthy.",
+        "example_1": "After a good night’s sleep, I felt as right as rain.",
+        "example_2": "She was ill yesterday, but today she’s as right as rain.",
+        "level": "B2",
+        "tags": ["здоровье", "восстановление"],
+        "usage": "informal",
+        "quiz_options": [
+        "To feel terrible",
+        "To be soaking wet",
+        "To feel perfectly fine",
+        "To be angry"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_013",
+        "idiom": "for a rainy day",
+        "translation": "на чёрный день",
+        "meaning": "To save something, usually money, for future difficulties.",
+        "example_1": "I keep some savings for a rainy day.",
+        "example_2": "She put aside a little money for a rainy day.",
+        "level": "B1",
+        "tags": ["финансы", "предусмотрительность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To spend money quickly",
+        "To save for future problems",
+        "To go shopping in the rain",
+        "To plan a vacation"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_014",
+        "idiom": "bolt from the blue",
+        "translation": "как снег на голову",
+        "meaning": "A sudden and unexpected event or piece of news.",
+        "example_1": "His resignation was a bolt from the blue.",
+        "example_2": "The news of the merger came like a bolt from the blue.",
+        "level": "C1",
+        "tags": ["неожиданность", "события"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A planned event",
+        "A sudden and unexpected surprise",
+        "A weather forecast",
+        "A lightning strike"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_015",
+        "idiom": "throw caution to the winds",
+        "translation": "перестать осторожничать",
+        "meaning": "To act recklessly or take a risk without worrying about the consequences.",
+        "example_1": "He threw caution to the winds and invested all his savings.",
+        "example_2": "She threw caution to the winds and quit her job to travel.",
+        "level": "C1",
+        "tags": ["риск", "решительность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be very careful",
+        "To act recklessly",
+        "To check the weather",
+        "To be cautious"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_016",
+        "idiom": "weather the storm",
+        "translation": "пережить трудные времена",
+        "meaning": "To survive a difficult situation or period.",
+        "example_1": "The company managed to weather the storm during the crisis.",
+        "example_2": "They weathered the storm and came out stronger.",
+        "level": "B2",
+        "tags": ["стойкость", "кризис"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To enjoy the weather",
+        "To survive a difficult time",
+        "To go sailing",
+        "To avoid problems"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_017",
+        "idiom": "sail close to the wind",
+        "translation": "ходить по краю пропасти",
+        "meaning": "To take risks or behave in a way that is almost improper or illegal.",
+        "example_1": "He’s always sailing close to the wind with his tax returns.",
+        "example_2": "That comment sailed close to the wind — be careful.",
+        "level": "C1",
+        "tags": ["риск", "границы"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To sail in bad weather",
+        "To take risks or act improperly",
+        "To be very cautious",
+        "To follow the rules strictly"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_018",
+        "idiom": "on cloud nine",
+        "translation": "на седьмом небе от счастья",
+        "meaning": "To be extremely happy or joyful.",
+        "example_1": "She was on cloud nine after getting the job offer.",
+        "example_2": "He’s been on cloud nine since his wedding day.",
+        "level": "B2",
+        "tags": ["эмоции", "радость"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be very sad",
+        "To be extremely happy",
+        "To be confused",
+        "To be sleepy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_019",
+        "idiom": "shoot the breeze",
+        "translation": "болтать о пустяках",
+        "meaning": "To chat casually about unimportant things.",
+        "example_1": "We sat on the porch and shot the breeze for hours.",
+        "example_2": "They love shooting the breeze over coffee every morning.",
+        "level": "C1",
+        "tags": ["общение", "неформальность"],
+        "usage": "informal",
+        "quiz_options": [
+        "To argue seriously",
+        "To chat casually",
+        "To talk about the weather",
+        "To speak in riddles"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_020",
+        "idiom": "in a fog",
+        "translation": "растерянный",
+        "meaning": "To be confused or unable to think clearly.",
+        "example_1": "After the long flight, I was completely in a fog.",
+        "example_2": "She’s been in a fog since hearing the bad news.",
+        "level": "B2",
+        "tags": ["состояние", "потерянность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be very focused",
+        "To be confused or unclear",
+        "To be sleepy",
+        "To be angry"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_021",
+        "idiom": "go down a storm",
+        "translation": "удаться",
+        "meaning": "To be very successful or well received.",
+        "example_1": "Her presentation went down a storm with the audience.",
+        "example_2": "The new product went down a storm at the launch event.",
+        "level": "C1",
+        "tags": ["успех", "впечатление"],
+        "usage": "informal",
+        "quiz_options": [
+        "To fail completely",
+        "To be ignored",
+        "To be very successful",
+        "To cause a storm"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_022",
+        "idiom": "a piece of the pie",
+        "translation": "доля",
+        "meaning": "A share of something valuable, especially money or benefits.",
+        "example_1": "Everyone wants a piece of the pie when the profits are high.",
+        "example_2": "He demanded a piece of the pie after helping with the project.",
+        "level": "B2",
+        "tags": ["финансы", "доля"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A slice of dessert",
+        "A share of something valuable",
+        "A small problem",
+        "A cooking term"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_023",
+        "idiom": "gravy train",
+        "translation": "лёгкие деньги",
+        "meaning": "A situation where someone makes money with little effort.",
+        "example_1": "He’s riding the gravy train with that cushy government job.",
+        "example_2": "They got off the gravy train when the funding stopped.",
+        "level": "C1",
+        "tags": ["финансы", "лёгкая выгода"],
+        "usage": "informal",
+        "quiz_options": [
+        "A train carrying food",
+        "A profitable situation with little effort",
+        "A difficult job",
+        "A cooking method"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_024",
+        "idiom": "bring home the bacon",
+        "translation": "обеспечивать семью, преуспевать",
+        "meaning": "To earn money to support a household.",
+        "example_1": "She works hard to bring home the bacon for her family.",
+        "example_2": "He finally brought home the bacon with his new business.",
+        "level": "B2",
+        "tags": ["работа", "доход"],
+        "usage": "informal",
+        "quiz_options": [
+        "To cook breakfast",
+        "To earn money for the family",
+        "To go shopping",
+        "To eat meat"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_025",
+        "idiom": "make ends meet",
+        "translation": "сводить концы с концами",
+        "meaning": "To manage financially, especially with difficulty.",
+        "example_1": "They struggle to make ends meet on a single income.",
+        "example_2": "After losing his job, he could barely make ends meet.",
+        "level": "B1",
+        "tags": ["финансы", "трудности"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To become rich",
+        "To manage financially",
+        "To meet new people",
+        "To finish a project"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_026",
+        "idiom": "hit the jackpot",
+        "translation": "сорвать куш",
+        "meaning": "To have great success or win a large amount of money.",
+        "example_1": "She hit the jackpot with her new startup.",
+        "example_2": "He hit the jackpot at the casino last night.",
+        "level": "B2",
+        "tags": ["успех", "деньги"],
+        "usage": "informal",
+        "quiz_options": [
+        "To lose everything",
+        "To win big or succeed greatly",
+        "To play cards",
+        "To go shopping"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_027",
+        "idiom": "be in the red",
+        "translation": "быть в долгу",
+        "meaning": "To owe money or be in financial trouble.",
+        "example_1": "The company has been in the red for three quarters.",
+        "example_2": "After the holiday spending, I’m in the red again.",
+        "level": "B2",
+        "tags": ["финансы", "долги"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be profitable",
+        "To owe money",
+        "To wear red clothes",
+        "To be angry"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_028",
+        "idiom": "make a bundle",
+        "translation": "сделать кучу денег",
+        "meaning": "To earn a large amount of money.",
+        "example_1": "He made a bundle selling vintage vinyl records.",
+        "example_2": "They made a bundle after launching their app.",
+        "level": "C1",
+        "tags": ["финансы", "заработок"],
+        "usage": "informal",
+        "quiz_options": [
+        "To lose money",
+        "To earn a lot of money",
+        "To pack clothes",
+        "To collect items"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_029",
+        "idiom": "bet your bottom dollar",
+        "translation": "гарантировать что-либо",
+        "meaning": "To be absolutely sure about something.",
+        "example_1": "You can bet your bottom dollar he’ll be late again.",
+        "example_2": "I bet my bottom dollar that she’ll win the competition.",
+        "level": "C1",
+        "tags": ["уверенность", "гарантия"],
+        "usage": "informal",
+        "quiz_options": [
+        "To gamble recklessly",
+        "To be absolutely certain",
+        "To lose money",
+        "To borrow money"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_030",
+        "idiom": "look like a million dollars",
+        "translation": "выглядеть на все сто",
+        "meaning": "To look extremely attractive or well-dressed.",
+        "example_1": "She looked like a million dollars in that dress.",
+        "example_2": "After the makeover, he looked like a million dollars.",
+        "level": "B2",
+        "tags": ["внешность", "впечатление"],
+        "usage": "informal",
+        "quiz_options": [
+        "To look poor",
+        "To look extremely good",
+        "To be rich",
+        "To wear expensive clothes"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_031",
+        "idiom": "cost a pretty penny",
+        "translation": "стоить уйму денег",
+        "meaning": "To be very expensive.",
+        "example_1": "That designer bag cost a pretty penny.",
+        "example_2": "Fixing the car is going to cost a pretty penny.",
+        "level": "B2",
+        "tags": ["финансы", "цены"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be cheap",
+        "To be very expensive",
+        "To be free",
+        "To be discounted"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_032",
+        "idiom": "go Dutch",
+        "translation": "платить свою часть",
+        "meaning": "To split the cost of something, especially a meal.",
+        "example_1": "Let’s go Dutch on dinner tonight.",
+        "example_2": "They always go Dutch when they eat out.",
+        "level": "B1",
+        "tags": ["финансы", "этикет"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To pay for everyone",
+        "To split the bill",
+        "To eat Dutch food",
+        "To argue over money"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_033",
+        "idiom": "nest egg",
+        "translation": "заначка",
+        "meaning": "A sum of money saved for the future, especially for retirement.",
+        "example_1": "They’ve built a nice nest egg for their retirement.",
+        "example_2": "She keeps a small nest egg in case of emergencies.",
+        "level": "B2",
+        "tags": ["финансы", "сбережения"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A bird's home",
+        "A hidden treasure",
+        "Money saved for the future",
+        "A secret plan"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_034",
+        "idiom": "golden handshake",
+        "translation": "большое выходное пособие",
+        "meaning": "A large sum of money given to someone when they leave a job.",
+        "example_1": "He received a golden handshake when he retired from the company.",
+        "example_2": "The CEO left with a golden handshake worth millions.",
+        "level": "C1",
+        "tags": ["работа", "компенсация"],
+        "usage": "formal",
+        "quiz_options": [
+        "A friendly greeting",
+        "A job promotion",
+        "A large severance payment",
+        "A business deal"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_035",
+        "idiom": "cheapskate",
+        "translation": "скряга",
+        "meaning": "A person who is unwilling to spend money.",
+        "example_1": "Don’t be such a cheapskate — it’s just a coffee.",
+        "example_2": "He’s known as a cheapskate who never tips.",
+        "level": "B2",
+        "tags": ["характер", "финансы"],
+        "usage": "informal",
+        "quiz_options": [
+        "A generous person",
+        "Someone who spends freely",
+        "A stingy person",
+        "A wealthy investor"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_036",
+        "idiom": "be flush with money",
+        "translation": "купаться в роскоши",
+        "meaning": "To have a lot of money available.",
+        "example_1": "After the deal, they were flush with money.",
+        "example_2": "She’s flush with money after her promotion.",
+        "level": "C1",
+        "tags": ["богатство", "деньги"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be broke",
+        "To have plenty of money",
+        "To be confused",
+        "To be in debt"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_037",
+        "idiom": "at all costs",
+        "translation": "любой ценой",
+        "meaning": "No matter what the effort or expense, something must be done.",
+        "example_1": "We must protect the data at all costs.",
+        "example_2": "She wanted to win the competition at all costs.",
+        "level": "B2",
+        "tags": ["решимость", "цель"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Only if it's easy",
+        "No matter what it takes",
+        "If it's cheap",
+        "If others agree"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_038",
+        "idiom": "live beyond one's means",
+        "translation": "жить не по средствам",
+        "meaning": "To spend more money than one can afford.",
+        "example_1": "He’s living beyond his means with that luxury car.",
+        "example_2": "Many people live beyond their means and fall into debt.",
+        "level": "B2",
+        "tags": ["финансы", "расходы"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To save money",
+        "To spend within budget",
+        "To overspend",
+        "To live modestly"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_039",
+        "idiom": "break the bank",
+        "translation": "сильно потратиться",
+        "meaning": "To cost too much or use up all of one’s money.",
+        "example_1": "Buying that car won’t break the bank.",
+        "example_2": "The vacation broke the bank, but it was worth it.",
+        "level": "B2",
+        "tags": ["финансы", "расходы"],
+        "usage": "informal",
+        "quiz_options": [
+        "To save money",
+        "To spend a little",
+        "To spend too much",
+        "To rob a bank"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_040",
+        "idiom": "cost a fortune",
+        "translation": "стоить целое состояние",
+        "meaning": "To be extremely expensive.",
+        "example_1": "That designer dress cost a fortune.",
+        "example_2": "Renovating the house will cost a fortune.",
+        "level": "B2",
+        "tags": ["цены", "расходы"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be cheap",
+        "To be very expensive",
+        "To be free",
+        "To be discounted"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_041",
+        "idiom": "on the breadline",
+        "translation": "за чертой бедности",
+        "meaning": "To be extremely poor or living at a minimum level.",
+        "example_1": "After losing his job, he was on the breadline.",
+        "example_2": "Many families are living on the breadline due to inflation.",
+        "level": "C1",
+        "tags": ["бедность", "социальные условия"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be wealthy",
+        "To be poor",
+        "To be unemployed",
+        "To be hungry"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_042",
+        "idiom": "once in a blue moon",
+        "translation": "очень редко",
+        "meaning": "Something that happens very infrequently.",
+        "example_1": "We go out to dinner once in a blue moon.",
+        "example_2": "He visits his hometown once in a blue moon.",
+        "level": "B2",
+        "tags": ["время", "редкость"],
+        "usage": "informal",
+        "quiz_options": [
+        "Very often",
+        "Occasionally",
+        "Very rarely",
+        "Every day"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_043",
+        "idiom": "behind the times",
+        "translation": "устаревший",
+        "meaning": "Not keeping up with current trends or technology.",
+        "example_1": "His fashion sense is really behind the times.",
+        "example_2": "That company is behind the times with its outdated software.",
+        "level": "B2",
+        "tags": ["технологии", "мода"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Very modern",
+        "Outdated or old-fashioned",
+        "Ahead of trends",
+        "Fast-moving"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_044",
+        "idiom": "time flies",
+        "translation": "время летит",
+        "meaning": "Time passes very quickly.",
+        "example_1": "Time flies when you're having fun.",
+        "example_2": "It’s already September — time really flies!",
+        "level": "B1",
+        "tags": ["время", "ощущение"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Time moves slowly",
+        "Time is irrelevant",
+        "Time passes quickly",
+        "Time is confusing"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_045",
+        "idiom": "the big time",
+        "translation": "большой успех",
+        "meaning": "A state of great success or fame.",
+        "example_1": "She finally made it to the big time with her new album.",
+        "example_2": "He’s playing in the big time now — national league!",
+        "level": "C1",
+        "tags": ["успех", "карьера"],
+        "usage": "informal",
+        "quiz_options": [
+        "A difficult moment",
+        "A major success or fame",
+        "A long time",
+        "A time of failure"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_046",
+        "idiom": "around the clock",
+        "translation": "круглосуточно",
+        "meaning": "Continuously, all day and night.",
+        "example_1": "The store is open around the clock.",
+        "example_2": "They worked around the clock to finish the project.",
+        "level": "B2",
+        "tags": ["время", "работа"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Only during the day",
+        "Only at night",
+        "All day and night",
+        "Once a week"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_047",
+        "idiom": "dwell on the past",
+        "translation": "жить прошлым",
+        "meaning": "To think too much about past events, especially negative ones.",
+        "example_1": "You shouldn’t dwell on the past — focus on the future.",
+        "example_2": "He keeps dwelling on the past and can’t move forward.",
+        "level": "B2",
+        "tags": ["мышление", "психология"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To forget everything",
+        "To focus on the future",
+        "To think too much about the past",
+        "To live in the moment"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_048",
+        "idiom": "have the time of one's life",
+        "translation": "отлично провести время",
+        "meaning": "To enjoy oneself greatly.",
+        "example_1": "We had the time of our lives on vacation.",
+        "example_2": "She had the time of her life at the concert.",
+        "level": "B2",
+        "tags": ["эмоции", "развлечения"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be bored",
+        "To enjoy something greatly",
+        "To waste time",
+        "To be late"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_049",
+        "idiom": "crack of dawn",
+        "translation": "с восходом солнца",
+        "meaning": "Very early in the morning.",
+        "example_1": "We left at the crack of dawn to catch the train.",
+        "example_2": "She wakes up at the crack of dawn every day.",
+        "level": "B2",
+        "tags": ["время", "распорядок"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Late at night",
+        "Midday",
+        "Very early morning",
+        "Sunset"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_050",
+        "idiom": "run out of time",
+        "translation": "иссякать",
+        "meaning": "To have no time left to complete something.",
+        "example_1": "We ran out of time before finishing the exam.",
+        "example_2": "She ran out of time and couldn’t submit the report.",
+        "level": "B1",
+        "tags": ["время", "дедлайн"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To have plenty of time",
+        "To finish early",
+        "To have no time left",
+        "To take a break"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_051",
+        "idiom": "in the blink of an eye",
+        "translation": "в одно мгновение",
+        "meaning": "Very quickly; almost instantly.",
+        "example_1": "The car disappeared in the blink of an eye.",
+        "example_2": "It was over in the blink of an eye — so fast!",
+        "level": "B2",
+        "tags": ["время", "скорость"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Very slowly",
+        "Very quickly",
+        "With hesitation",
+        "With difficulty"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_052",
+        "idiom": "like clockwork",
+        "translation": "без перебоя",
+        "meaning": "To happen regularly or predictably, without problems.",
+        "example_1": "The trains run like clockwork in Japan.",
+        "example_2": "Her morning routine goes like clockwork.",
+        "level": "B2",
+        "tags": ["распорядок", "надежность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Unpredictably",
+        "With delays",
+        "Smoothly and regularly",
+        "Rarely"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_053",
+        "idiom": "for donkey's years",
+        "translation": "с незапамятных времён",
+        "meaning": "For a very long time.",
+        "example_1": "They’ve lived in that house for donkey’s years.",
+        "example_2": "I haven’t seen him for donkey’s years — maybe since school.",
+        "level": "B2",
+        "tags": ["время", "длительность"],
+        "usage": "informal",
+        "quiz_options": [
+        "For a short time",
+        "For a very long time",
+        "Since last year",
+        "For a few days"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_054",
+        "idiom": "pressed for time",
+        "translation": "очень торопиться",
+        "meaning": "To have very little time available.",
+        "example_1": "I’m really pressed for time — can we talk later?",
+        "example_2": "She was pressed for time and skipped lunch.",
+        "level": "B2",
+        "tags": ["время", "спешка"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To have plenty of time",
+        "To be in a hurry",
+        "To be confused",
+        "To be late"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_055",
+        "idiom": "give someone a hard time",
+        "translation": "отчитывать",
+        "meaning": "To criticize or treat someone harshly.",
+        "example_1": "The teacher gave me a hard time for being late.",
+        "example_2": "Don’t give him a hard time — he’s doing his best.",
+        "level": "B2",
+        "tags": ["общение", "критика"],
+        "usage": "informal",
+        "quiz_options": [
+        "To praise someone",
+        "To treat someone harshly",
+        "To ignore someone",
+        "To help someone"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_056",
+        "idiom": "be ahead of time",
+        "translation": "опережать",
+        "meaning": "To be early or more advanced than expected.",
+        "example_1": "We finished the project ahead of time.",
+        "example_2": "Her ideas were ahead of time and not understood back then.",
+        "level": "B2",
+        "tags": ["время", "прогресс"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be late",
+        "To be early or advanced",
+        "To be outdated",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_057",
+        "idiom": "have a whale of a time",
+        "translation": "замечательно провести время",
+        "meaning": "To enjoy oneself greatly.",
+        "example_1": "We had a whale of a time at the beach.",
+        "example_2": "She had a whale of a time dancing at the party.",
+        "level": "B2",
+        "tags": ["эмоции", "развлечения"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be bored",
+        "To enjoy oneself greatly",
+        "To be tired",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_058",
+        "idiom": "go with the times",
+        "translation": "идти в ногу со временем",
+        "meaning": "To adapt to modern ideas or changes.",
+        "example_1": "You need to go with the times and learn new tech.",
+        "example_2": "The company went with the times and updated its branding.",
+        "level": "B2",
+        "tags": ["адаптация", "технологии"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To resist change",
+        "To follow traditions",
+        "To adapt to modern trends",
+        "To ignore progress"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_059",
+        "idiom": "on the spur of the moment",
+        "translation": "с наскока",
+        "meaning": "Suddenly and without planning.",
+        "example_1": "We decided to go to the beach on the spur of the moment.",
+        "example_2": "He bought the car on the spur of the moment.",
+        "level": "C1",
+        "tags": ["импульсивность", "решения"],
+        "usage": "neutral",
+        "quiz_options": [
+        "After careful planning",
+        "Suddenly and impulsively",
+        "With hesitation",
+        "After a long discussion"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_060",
+        "idiom": "in broad daylight",
+        "translation": "среди бела дня",
+        "meaning": "In plain view during the daytime.",
+        "example_1": "The robbery happened in broad daylight.",
+        "example_2": "She was attacked in broad daylight near the station.",
+        "level": "B2",
+        "tags": ["время", "события"],
+        "usage": "neutral",
+        "quiz_options": [
+        "At night",
+        "In secret",
+        "During the day and openly",
+        "In the morning"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_061",
+        "idiom": "catch unawares",
+        "translation": "застигнуть врасплох",
+        "meaning": "To surprise someone unexpectedly.",
+        "example_1": "The storm caught us unawares while hiking.",
+        "example_2": "She was caught unawares by the sudden question.",
+        "level": "C1",
+        "tags": ["неожиданность", "реакция"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be prepared",
+        "To be warned",
+        "To be surprised unexpectedly",
+        "To be informed"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_062",
+        "idiom": "monkey business",
+        "translation": "бессмысленная работа",
+        "meaning": "Silly or dishonest behavior; unproductive activity.",
+        "example_1": "Stop the monkey business and get back to work.",
+        "example_2": "There’s been some monkey business with the budget figures.",
+        "level": "B2",
+        "tags": ["поведение", "работа"],
+        "usage": "informal",
+        "quiz_options": [
+        "Serious work",
+        "Dishonest or silly behavior",
+        "Animal training",
+        "Teamwork"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_063",
+        "idiom": "smell a rat",
+        "translation": "чуять недоброе",
+        "meaning": "To suspect that something is wrong or dishonest.",
+        "example_1": "I smelled a rat when he avoided the question.",
+        "example_2": "She smells a rat in the sudden change of plans.",
+        "level": "C1",
+        "tags": ["подозрение", "интуиция"],
+        "usage": "informal",
+        "quiz_options": [
+        "To feel happy",
+        "To suspect something wrong",
+        "To clean the house",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_064",
+        "idiom": "top dog",
+        "translation": "победитель",
+        "meaning": "The most important or successful person in a group.",
+        "example_1": "He became the top dog in the company after the merger.",
+        "example_2": "Everyone wants to be the top dog in politics.",
+        "level": "B2",
+        "tags": ["успех", "иерархия"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A pet owner",
+        "The most successful person",
+        "A team player",
+        "A beginner"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_065",
+        "idiom": "cash cow",
+        "translation": "источник денежных средств",
+        "meaning": "A product or business that generates a steady income.",
+        "example_1": "That app is their cash cow — it brings in millions.",
+        "example_2": "The subscription model became a cash cow for the company.",
+        "level": "C1",
+        "tags": ["финансы", "бизнес"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A farm animal",
+        "A steady source of income",
+        "A risky investment",
+        "A one-time profit"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_066",
+        "idiom": "eager beaver",
+        "translation": "работяга",
+        "meaning": "A person who works very hard and enthusiastically.",
+        "example_1": "She’s an eager beaver — always first to arrive.",
+        "example_2": "The eager beaver finished the project ahead of schedule.",
+        "level": "B2",
+        "tags": ["характер", "работа"],
+        "usage": "informal",
+        "quiz_options": [
+        "A lazy person",
+        "A hardworking and enthusiastic person",
+        "A forest animal",
+        "A manager"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_067",
+        "idiom": "black sheep",
+        "translation": "белая ворона",
+        "meaning": "A person who is different from others in a group and often disapproved of.",
+        "example_1": "He’s the black sheep of the family — always in trouble.",
+        "example_2": "She felt like the black sheep at the office party.",
+        "level": "B2",
+        "tags": ["социальные роли", "отчуждение"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A popular person",
+        "A person who stands out negatively",
+        "A fashion icon",
+        "A team leader"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_068",
+        "idiom": "elephant in the room",
+        "translation": "очевидная проблема",
+        "meaning": "An obvious issue that people avoid discussing.",
+        "example_1": "Nobody mentioned the budget cuts — the elephant in the room.",
+        "example_2": "The divorce was the elephant in the room during dinner.",
+        "level": "C1",
+        "tags": ["социальные ситуации", "молчание"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A zoo visit",
+        "An obvious but ignored issue",
+        "A large decoration",
+        "A loud argument"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_069",
+        "idiom": "when pigs fly",
+        "translation": "когда рак свистнет",
+        "meaning": "Something that will never happen.",
+        "example_1": "He’ll clean his room when pigs fly.",
+        "example_2": "She’ll apologize? When pigs fly!",
+        "level": "B2",
+        "tags": ["ирония", "невозможность"],
+        "usage": "informal",
+        "quiz_options": [
+        "Very soon",
+        "Eventually",
+        "Never",
+        "Tomorrow"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_070",
+        "idiom": "like a cat on a hot tin roof",
+        "translation": "быть не в своей тарелке",
+        "meaning": "To be extremely nervous or restless.",
+        "example_1": "He was like a cat on a hot tin roof before the interview.",
+        "example_2": "She paced the room like a cat on a hot tin roof.",
+        "level": "C1",
+        "tags": ["эмоции", "напряжение"],
+        "usage": "informal",
+        "quiz_options": [
+        "Very relaxed",
+        "Extremely nervous",
+        "Very sleepy",
+        "Completely focused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_071",
+        "idiom": "in the doghouse",
+        "translation": "в немилости",
+        "meaning": "To be in trouble or disfavor with someone.",
+        "example_1": "He forgot her birthday and is now in the doghouse.",
+        "example_2": "She’s in the doghouse with her boss for missing the deadline.",
+        "level": "B2",
+        "tags": ["отношения", "ошибки"],
+        "usage": "informal",
+        "quiz_options": [
+        "Highly respected",
+        "In trouble or disfavor",
+        "Very popular",
+        "In charge"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_072",
+        "idiom": "be as busy as a bee",
+        "translation": "трудиться, как пчела",
+        "meaning": "To be very busy and active.",
+        "example_1": "She’s as busy as a bee preparing for the event.",
+        "example_2": "He’s been as busy as a bee since morning.",
+        "level": "B1",
+        "tags": ["работа", "активность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Very lazy",
+        "Very busy and active",
+        "Very sleepy",
+        "Very confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_073",
+        "idiom": "let the cat out of the bag",
+        "translation": "выпустить кота из мешка",
+        "meaning": "To reveal a secret unintentionally.",
+        "example_1": "He let the cat out of the bag about the surprise party.",
+        "example_2": "She accidentally let the cat out of the bag during lunch.",
+        "level": "B2",
+        "tags": ["секреты", "ошибки"],
+        "usage": "informal",
+        "quiz_options": [
+        "To hide something",
+        "To reveal a secret",
+        "To adopt a pet",
+        "To make a joke"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_074",
+        "idiom": "horse around",
+        "translation": "валять дурака",
+        "meaning": "To behave in a silly or careless way, often causing disruption.",
+        "example_1": "The kids were horsing around in the classroom.",
+        "example_2": "Stop horsing around and help me clean up!",
+        "level": "B2",
+        "tags": ["поведение", "игривость"],
+        "usage": "informal",
+        "quiz_options": [
+        "To work hard",
+        "To behave seriously",
+        "To act silly and playfully",
+        "To ride a horse"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_075",
+        "idiom": "as poor as a church mouse",
+        "translation": "бедный, как церковная мышь",
+        "meaning": "Extremely poor; having very little money.",
+        "example_1": "After losing his job, he was as poor as a church mouse.",
+        "example_2": "She grew up as poor as a church mouse in a small village.",
+        "level": "B2",
+        "tags": ["финансы", "бедность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Very wealthy",
+        "Extremely poor",
+        "Very religious",
+        "Very quiet"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_076",
+        "idiom": "lion's share of something",
+        "translation": "львиная доля",
+        "meaning": "The largest portion of something.",
+        "example_1": "He took the lion’s share of the credit for the project.",
+        "example_2": "The marketing team received the lion’s share of the budget.",
+        "level": "B2",
+        "tags": ["распределение", "приоритет"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A small part",
+        "The largest portion",
+        "An equal share",
+        "A dangerous task"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_077",
+        "idiom": "eat like a horse",
+        "translation": "иметь волчий аппетит",
+        "meaning": "To eat a lot; to have a big appetite.",
+        "example_1": "He eats like a horse after training.",
+        "example_2": "Teenagers often eat like horses during growth spurts.",
+        "level": "B1",
+        "tags": ["еда", "аппетит"],
+        "usage": "informal",
+        "quiz_options": [
+        "To eat very little",
+        "To eat a lot",
+        "To eat slowly",
+        "To eat only vegetables"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_078",
+        "idiom": "have a tiger by the tail",
+        "translation": "бросать вызов судьбе",
+        "meaning": "To be involved in something difficult or dangerous that is hard to control.",
+        "example_1": "Managing that project is like having a tiger by the tail.",
+        "example_2": "He realized he had a tiger by the tail when the media got involved.",
+        "level": "C1",
+        "tags": ["риск", "контроль"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be in control",
+        "To face a difficult challenge",
+        "To tame an animal",
+        "To avoid responsibility"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_079",
+        "idiom": "hear it straight from the horse's mouth",
+        "translation": "из первоисточника",
+        "meaning": "To get information directly from the person involved.",
+        "example_1": "I heard it straight from the horse’s mouth — she’s quitting.",
+        "example_2": "If you want the truth, ask him directly and hear it from the horse’s mouth.",
+        "level": "B2",
+        "tags": ["информация", "источник"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To hear a rumor",
+        "To get information indirectly",
+        "To hear directly from the source",
+        "To talk to an animal"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_080",
+        "idiom": "butterflies in the stomach",
+        "translation": "ни жив, ни мёртв",
+        "meaning": "To feel nervous or anxious, especially before an important event.",
+        "example_1": "I always get butterflies in my stomach before speaking in public.",
+        "example_2": "She had butterflies in her stomach before the big exam.",
+        "level": "B2",
+        "tags": ["эмоции", "нервозность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To feel confident",
+        "To feel nervous",
+        "To feel hungry",
+        "To feel sleepy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_081",
+        "idiom": "like water off a duck's back",
+        "translation": "как с гуся вода",
+        "meaning": "To have no effect on someone; to be easily ignored.",
+        "example_1": "Criticism rolls off him like water off a duck’s back.",
+        "example_2": "Her calm attitude made the insults like water off a duck’s back.",
+        "level": "C1",
+        "tags": ["устойчивость", "реакция"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be deeply affected",
+        "To ignore criticism easily",
+        "To get wet",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_082",
+        "idiom": "egghead",
+        "translation": "умник",
+        "meaning": "A very studious or intellectual person.",
+        "example_1": "He’s a real egghead — always buried in books.",
+        "example_2": "The team hired an egghead to optimize the algorithm.",
+        "level": "B2",
+        "tags": ["характер", "интеллект"],
+        "usage": "informal",
+        "quiz_options": [
+        "A lazy person",
+        "A very smart or academic person",
+        "A chef",
+        "A forgetful person"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_083",
+        "idiom": "big cheese",
+        "translation": "влиятельный человек",
+        "meaning": "An important or influential person.",
+        "example_1": "He’s the big cheese in the marketing department.",
+        "example_2": "Everyone listened when the big cheese entered the room.",
+        "level": "B2",
+        "tags": ["иерархия", "влияние"],
+        "usage": "informal",
+        "quiz_options": [
+        "A dairy product",
+        "An important person",
+        "A comedian",
+        "A chef"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_084",
+        "idiom": "couch potato",
+        "translation": "бездельник",
+        "meaning": "A person who spends a lot of time sitting and watching TV.",
+        "example_1": "He turned into a couch potato during the holidays.",
+        "example_2": "Don’t be a couch potato — go for a walk!",
+        "level": "B1",
+        "tags": ["характер", "активность"],
+        "usage": "informal",
+        "quiz_options": [
+        "A vegetable",
+        "A very active person",
+        "A lazy person who watches TV",
+        "A sports fan"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_085",
+        "idiom": "tough cookie",
+        "translation": "хулиган",
+        "meaning": "A strong, determined, or resilient person.",
+        "example_1": "She’s a tough cookie — nothing gets her down.",
+        "example_2": "Don’t mess with him, he’s a tough cookie.",
+        "level": "B2",
+        "tags": ["характер", "стойкость"],
+        "usage": "informal",
+        "quiz_options": [
+        "A sweet dessert",
+        "A weak person",
+        "A strong and resilient person",
+        "A rude customer"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_086",
+        "idiom": "top banana",
+        "translation": "лидер",
+        "meaning": "The most important person in a group or organization.",
+        "example_1": "He’s the top banana in the company now.",
+        "example_2": "She became the top banana after the promotion.",
+        "level": "C1",
+        "tags": ["иерархия", "лидерство"],
+        "usage": "informal",
+        "quiz_options": [
+        "A fruit seller",
+        "The most important person",
+        "A comedian",
+        "A beginner"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_087",
+        "idiom": "bad apple",
+        "translation": "негодяй",
+        "meaning": "A person who negatively influences others in a group.",
+        "example_1": "One bad apple can spoil the whole team.",
+        "example_2": "He was fired for being a bad apple in the department.",
+        "level": "B2",
+        "tags": ["характер", "негатив"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A rotten fruit",
+        "A person who causes trouble",
+        "A healthy snack",
+        "A good leader"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_088",
+        "idiom": "eat one's words",
+        "translation": "брать назад свои слова",
+        "meaning": "To admit that what one said was wrong.",
+        "example_1": "He had to eat his words after the prediction failed.",
+        "example_2": "She ate her words when the project succeeded.",
+        "level": "B2",
+        "tags": ["ошибки", "признание"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To speak clearly",
+        "To apologize for being wrong",
+        "To eat quickly",
+        "To forget what was said"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_089",
+        "idiom": "the apple of one's eye",
+        "translation": "зеница ока",
+        "meaning": "Someone who is cherished and loved deeply.",
+        "example_1": "His daughter is the apple of his eye.",
+        "example_2": "She treats her dog like the apple of her eye.",
+        "level": "B1",
+        "tags": ["отношения", "любовь"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Someone disliked",
+        "Someone deeply loved",
+        "A fruit seller",
+        "A stranger"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_090",
+        "idiom": "hard nut to crack",
+        "translation": "трудная задача",
+        "meaning": "A difficult problem or person to deal with.",
+        "example_1": "This puzzle is a hard nut to crack.",
+        "example_2": "He’s a hard nut to crack — very private and quiet.",
+        "level": "B2",
+        "tags": ["сложности", "задачи"],
+        "usage": "neutral",
+        "quiz_options": [
+        "An easy task",
+        "A difficult problem or person",
+        "A food item",
+        "A noisy person"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_091",
+        "idiom": "in a nutshell",
+        "translation": "вкратце",
+        "meaning": "In a very brief and clear way.",
+        "example_1": "In a nutshell, we need more funding.",
+        "example_2": "She explained the plan in a nutshell.",
+        "level": "B1",
+        "tags": ["объяснение", "краткость"],
+        "usage": "neutral",
+        "quiz_options": [
+        "In great detail",
+        "In a nutshell",
+        "In a confusing way",
+        "In a long speech"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_092",
+        "idiom": "have egg on one's face",
+        "translation": "выглядеть глупо",
+        "meaning": "To be embarrassed after doing something wrong or foolish.",
+        "example_1": "He had egg on his face after the failed presentation.",
+        "example_2": "She had egg on her face when her prediction was wrong.",
+        "level": "C1",
+        "tags": ["ошибки", "позор"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be proud",
+        "To be embarrassed",
+        "To be hungry",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_093",
+        "idiom": "as cool as a cucumber",
+        "translation": "хладнокровный",
+        "meaning": "Very calm and composed, especially under pressure.",
+        "example_1": "She stayed as cool as a cucumber during the interview.",
+        "example_2": "Even in crisis, he’s as cool as a cucumber.",
+        "level": "B2",
+        "tags": ["эмоции", "спокойствие"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Very nervous",
+        "Very calm and composed",
+        "Very cold",
+        "Very sleepy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_094",
+        "idiom": "be full of beans",
+        "translation": "быть энергичным",
+        "meaning": "To be very energetic, lively, or enthusiastic.",
+        "example_1": "The kids were full of beans after the birthday party.",
+        "example_2": "She’s always full of beans in the morning.",
+        "level": "B1",
+        "tags": ["энергия", "характер"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be tired",
+        "To be energetic and lively",
+        "To be hungry",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_095",
+        "idiom": "as slow as molasses",
+        "translation": "очень медленный",
+        "meaning": "Extremely slow.",
+        "example_1": "The traffic was as slow as molasses this morning.",
+        "example_2": "He moves as slow as molasses when getting ready.",
+        "level": "B2",
+        "tags": ["скорость", "сравнение"],
+        "usage": "informal",
+        "quiz_options": [
+        "Very fast",
+        "Extremely slow",
+        "Very sweet",
+        "Very sticky"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_096",
+        "idiom": "chew the fat",
+        "translation": "лясы точить",
+        "meaning": "To chat casually, especially about unimportant things.",
+        "example_1": "We sat around chewing the fat all evening.",
+        "example_2": "They love to chew the fat over coffee every morning.",
+        "level": "B2",
+        "tags": ["общение", "неформальность"],
+        "usage": "informal",
+        "quiz_options": [
+        "To eat meat",
+        "To chat casually",
+        "To argue",
+        "To complain"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_097",
+        "idiom": "sell like hot cakes",
+        "translation": "быть нарасхват",
+        "meaning": "To sell very quickly and in large quantities.",
+        "example_1": "The new phones are selling like hot cakes.",
+        "example_2": "Her handmade jewelry sells like hot cakes at the market.",
+        "level": "B2",
+        "tags": ["продажи", "популярность"],
+        "usage": "informal",
+        "quiz_options": [
+        "To sell slowly",
+        "To sell quickly and successfully",
+        "To be expensive",
+        "To be homemade"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_098",
+        "idiom": "take something with a pinch of salt",
+        "translation": "не доверять",
+        "meaning": "To not completely believe something; to be skeptical.",
+        "example_1": "Take his story with a pinch of salt — he tends to exaggerate.",
+        "example_2": "I take online reviews with a pinch of salt.",
+        "level": "C1",
+        "tags": ["доверие", "скепсис"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To believe everything",
+        "To be skeptical",
+        "To add seasoning",
+        "To ignore completely"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_099",
+        "idiom": "bite off more than one can chew",
+        "translation": "переоценить свои возможности",
+        "meaning": "To take on a task that is too difficult or too much to handle.",
+        "example_1": "He bit off more than he could chew by accepting two jobs.",
+        "example_2": "She realized she’d bitten off more than she could chew with the renovation.",
+        "level": "B2",
+        "tags": ["ошибки", "нагрузка"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To eat too much",
+        "To take on too much responsibility",
+        "To be lazy",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_100",
+        "idiom": "cry over spilt milk",
+        "translation": "горевать о непоправимом",
+        "meaning": "To be upset about something that cannot be changed.",
+        "example_1": "It’s no use crying over spilt milk — just move on.",
+        "example_2": "She cried over spilt milk after losing the file.",
+        "level": "B1",
+        "tags": ["эмоции", "ошибки"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To fix a mistake",
+        "To be upset about something irreversible",
+        "To clean up a mess",
+        "To complain about food"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_101",
+        "idiom": "hot potato",
+        "translation": "актуальная тема",
+        "meaning": "A controversial or difficult issue that people avoid dealing with.",
+        "example_1": "The tax reform is a political hot potato.",
+        "example_2": "The topic of layoffs became a hot potato in the meeting.",
+        "level": "C1",
+        "tags": ["тема", "контроверсия"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A delicious dish",
+        "A controversial issue",
+        "A warm greeting",
+        "A sports event"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_102",
+        "idiom": "burn the midnight oil",
+        "translation": "засиживаться допоздна",
+        "meaning": "To work or study late into the night.",
+        "example_1": "She burned the midnight oil to finish her thesis.",
+        "example_2": "He’s been burning the midnight oil preparing for exams.",
+        "level": "B2",
+        "tags": ["работа", "время"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To sleep early",
+        "To work late into the night",
+        "To light a candle",
+        "To take a break"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_103",
+        "idiom": "hit the hay",
+        "translation": "идти спать",
+        "meaning": "To go to bed or go to sleep.",
+        "example_1": "I’m exhausted — time to hit the hay.",
+        "example_2": "He hit the hay right after dinner.",
+        "level": "B1",
+        "tags": ["сон", "распорядок"],
+        "usage": "informal",
+        "quiz_options": [
+        "To go farming",
+        "To go to sleep",
+        "To eat dinner",
+        "To take a walk"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_104",
+        "idiom": "a penny for your thoughts",
+        "translation": "предложить сказать, о чём думает человек",
+        "meaning": "A way to ask someone what they are thinking.",
+        "example_1": "You’ve been quiet — a penny for your thoughts?",
+        "example_2": "She looked puzzled, so I said, 'A penny for your thoughts.'",
+        "level": "B2",
+        "tags": ["общение", "мысли"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To ask for money",
+        "To ask what someone is thinking",
+        "To offer advice",
+        "To make a joke"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_105",
+        "idiom": "bite the bullet",
+        "translation": "стиснуть зубы, терпеть",
+        "meaning": "To endure something unpleasant or difficult with courage.",
+        "example_1": "She bit the bullet and went to the dentist.",
+        "example_2": "He had to bite the bullet and accept the criticism.",
+        "level": "B2",
+        "tags": ["стойкость", "решимость"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To avoid pain",
+        "To endure something unpleasant",
+        "To eat quickly",
+        "To argue"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_106",
+        "idiom": "the ball is in your court",
+        "translation": "теперь очередь за тобой",
+        "meaning": "It’s your responsibility to take action or make a decision.",
+        "example_1": "I’ve done my part — now the ball is in your court.",
+        "example_2": "She gave him the offer, and now the ball is in his court.",
+        "level": "B2",
+        "tags": ["ответственность", "решения"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To play tennis",
+        "To take responsibility",
+        "To ignore a task",
+        "To pass the blame"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_107",
+        "idiom": "pull someone's leg",
+        "translation": "подшучивать над кем-то",
+        "meaning": "To tease or joke with someone in a playful way.",
+        "example_1": "Relax, I’m just pulling your leg!",
+        "example_2": "He pulled my leg about winning the lottery.",
+        "level": "B1",
+        "tags": ["юмор", "общение"],
+        "usage": "informal",
+        "quiz_options": [
+        "To hurt someone",
+        "To tease playfully",
+        "To run fast",
+        "To dance"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_108",
+        "idiom": "hit the nail on the head",
+        "translation": "попасть в точку",
+        "meaning": "To describe a situation or problem exactly and accurately.",
+        "example_1": "You hit the nail on the head with that analysis.",
+        "example_2": "Her comment really hit the nail on the head.",
+        "level": "B2",
+        "tags": ["точность", "мнение"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To miss the point",
+        "To describe something perfectly",
+        "To hit something physically",
+        "To make a mistake"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_109",
+        "idiom": "go the extra mile",
+        "translation": "приложить дополнительные усилия",
+        "meaning": "To do more than what is expected or required.",
+        "example_1": "She always goes the extra mile to help her clients.",
+        "example_2": "He went the extra mile and stayed late to finish the project.",
+        "level": "B2",
+        "tags": ["усилия", "мотивация"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To do the minimum",
+        "To exceed expectations",
+        "To take a long walk",
+        "To avoid responsibility"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_110",
+        "idiom": "out of the blue",
+        "translation": "неожиданно",
+        "meaning": "Suddenly and unexpectedly.",
+        "example_1": "He called me out of the blue after years of silence.",
+        "example_2": "The offer came out of the blue — I wasn’t even looking for a job.",
+        "level": "B2",
+        "tags": ["неожиданность", "события"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Expectedly",
+        "Suddenly and unexpectedly",
+        "With preparation",
+        "After a warning"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_111",
+        "idiom": "keep an eye on",
+        "translation": "присматривать за",
+        "meaning": "To watch or monitor something or someone carefully.",
+        "example_1": "Can you keep an eye on my bag while I’m gone?",
+        "example_2": "She kept an eye on the kids at the playground.",
+        "level": "B1",
+        "tags": ["наблюдение", "забота"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To ignore something",
+        "To monitor or watch carefully",
+        "To close your eyes",
+        "To look away"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_112",
+        "idiom": "in the same boat",
+        "translation": "в одинаковых обстоятельствах",
+        "meaning": "To be in the same situation as someone else, especially a difficult one.",
+        "example_1": "We’re all in the same boat — struggling with deadlines.",
+        "example_2": "She felt better knowing others were in the same boat.",
+        "level": "B2",
+        "tags": ["ситуация", "солидарность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be alone",
+        "To be in the same situation",
+        "To go sailing",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_113",
+        "idiom": "call it a day",
+        "translation": "закончить работу на сегодня",
+        "meaning": "To stop working for the day or to end an activity.",
+        "example_1": "Let’s call it a day and continue tomorrow.",
+        "example_2": "After five hours of coding, I called it a day.",
+        "level": "B1",
+        "tags": ["работа", "распорядок"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To start working",
+        "To end work for the day",
+        "To take a break",
+        "To go shopping"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_114",
+        "idiom": "burn bridges",
+        "translation": "сжигать мосты",
+        "meaning": "To destroy relationships or opportunities permanently.",
+        "example_1": "He burned bridges with his former employer.",
+        "example_2": "Don’t burn bridges — you might need their help later.",
+        "level": "C1",
+        "tags": ["отношения", "ошибки"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To build connections",
+        "To destroy relationships",
+        "To travel far",
+        "To fix mistakes"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_115",
+        "idiom": "throw in the towel",
+        "translation": "сдаваться",
+        "meaning": "To give up or stop trying.",
+        "example_1": "After several failed attempts, he threw in the towel.",
+        "example_2": "She refused to throw in the towel despite the challenges.",
+        "level": "C1",
+        "tags": ["мотивация", "усталость"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To keep fighting",
+        "To give up",
+        "To clean up",
+        "To take a break"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_116",
+        "idiom": "barking up the wrong tree",
+        "translation": "идти по ложному следу",
+        "meaning": "To pursue a mistaken or misguided course of action.",
+        "example_1": "If you think I’m responsible, you’re barking up the wrong tree.",
+        "example_2": "They were barking up the wrong tree by blaming the intern.",
+        "level": "C1",
+        "tags": ["ошибки", "поиск"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be correct",
+        "To make a mistake in judgment",
+        "To chase animals",
+        "To ask for help"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_117",
+        "idiom": "hit the road",
+        "translation": "отправиться в путь",
+        "meaning": "To leave or begin a journey.",
+        "example_1": "Let’s hit the road before traffic gets bad.",
+        "example_2": "They hit the road early to catch the sunrise.",
+        "level": "B1",
+        "tags": ["путешествие", "движение"],
+        "usage": "informal",
+        "quiz_options": [
+        "To go to sleep",
+        "To start a journey",
+        "To drive recklessly",
+        "To cancel plans"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_118",
+        "idiom": "play devil's advocate",
+        "translation": "выступать в роли оппонента",
+        "meaning": "To argue against a position for the sake of debate or testing ideas.",
+        "example_1": "Let me play devil’s advocate and challenge that assumption.",
+        "example_2": "She played devil’s advocate to help refine the proposal.",
+        "level": "C1",
+        "tags": ["дискуссия", "мышление"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To agree with everything",
+        "To argue for the sake of debate",
+        "To avoid conflict",
+        "To support a decision"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_119",
+        "idiom": "climb the corporate ladder",
+        "translation": "продвигаться по карьерной лестнице",
+        "meaning": "To advance in one's career, especially within a company.",
+        "example_1": "He’s been climbing the corporate ladder for years.",
+        "example_2": "She hopes to climb the corporate ladder and become a manager.",
+        "level": "C1",
+        "tags": ["карьера", "успех"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To quit a job",
+        "To get promoted over time",
+        "To change companies often",
+        "To avoid responsibility"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_120",
+        "idiom": "hit the ground running",
+        "translation": "сразу взяться за дело с энтузиазмом",
+        "meaning": "To start something quickly and effectively.",
+        "example_1": "She hit the ground running on her first day at work.",
+        "example_2": "The team hit the ground running after the strategy meeting.",
+        "level": "C1",
+        "tags": ["работа", "энергия"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To fall down",
+        "To start slowly",
+        "To begin quickly and effectively",
+        "To take a break"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_121",
+        "idiom": "think outside the box",
+        "translation": "мыслить нестандартно",
+        "meaning": "To think creatively and differently from the usual approach.",
+        "example_1": "We need to think outside the box to solve this problem.",
+        "example_2": "Her idea was brilliant — she really thought outside the box.",
+        "level": "B2",
+        "tags": ["мышление", "креативность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To follow instructions",
+        "To think creatively",
+        "To ignore the problem",
+        "To repeat old ideas"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_122",
+        "idiom": "raise the bar",
+        "translation": "повышать планку",
+        "meaning": "To set a higher standard or level of expectation.",
+        "example_1": "Her performance raised the bar for the whole team.",
+        "example_2": "They raised the bar with their new product launch.",
+        "level": "B2",
+        "tags": ["стандарты", "мотивация"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To lower expectations",
+        "To set a higher standard",
+        "To cancel plans",
+        "To avoid responsibility"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_123",
+        "idiom": "learn the ropes",
+        "translation": "изучать основы работы",
+        "meaning": "To learn how to do a job or activity properly.",
+        "example_1": "It took me a few weeks to learn the ropes at my new job.",
+        "example_2": "She’s still learning the ropes but improving fast.",
+        "level": "B1",
+        "tags": ["обучение", "работа"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To teach others",
+        "To learn the basics of a job",
+        "To avoid tasks",
+        "To take a break"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_124",
+        "idiom": "cut corners",
+        "translation": "делать халтуру",
+        "meaning": "To do something in the easiest or cheapest way, often sacrificing quality.",
+        "example_1": "They cut corners on safety to save money.",
+        "example_2": "Don’t cut corners — do it properly.",
+        "level": "B2",
+        "tags": ["качество", "ошибки"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To follow all rules",
+        "To take shortcuts and reduce quality",
+        "To improve efficiency",
+        "To work overtime"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_125",
+        "idiom": "burn the candle at both ends",
+        "translation": "работать на износ",
+        "meaning": "To work too hard or stay up late, exhausting oneself.",
+        "example_1": "She’s burning the candle at both ends with work and study.",
+        "example_2": "He burned the candle at both ends and got sick.",
+        "level": "C1",
+        "tags": ["усталость", "нагрузка"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To relax often",
+        "To work excessively and exhaust oneself",
+        "To light candles",
+        "To take breaks regularly"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_126",
+        "idiom": "pull your weight",
+        "translation": "вносить свой вклад",
+        "meaning": "To do your fair share of work or responsibility.",
+        "example_1": "Everyone needs to pull their weight on this team.",
+        "example_2": "He wasn’t pulling his weight, so they let him go.",
+        "level": "B2",
+        "tags": ["работа", "ответственность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To avoid work",
+        "To do your fair share",
+        "To lift heavy objects",
+        "To take a break"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_127",
+        "idiom": "jump on the bandwagon",
+        "translation": "присоединиться к тренду",
+        "meaning": "To join others in doing something that is currently popular.",
+        "example_1": "Many companies jumped on the bandwagon of AI tools.",
+        "example_2": "He jumped on the bandwagon and started a podcast.",
+        "level": "B2",
+        "tags": ["тренды", "социальные явления"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To start a new trend",
+        "To join a popular movement",
+        "To avoid popularity",
+        "To criticize others"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_128",
+        "idiom": "a foot in the door",
+        "translation": "получить возможность начать карьеру",
+        "meaning": "To get an initial opportunity that could lead to something bigger.",
+        "example_1": "This internship is my foot in the door to the industry.",
+        "example_2": "He got a foot in the door through a friend’s recommendation.",
+        "level": "B2",
+        "tags": ["карьера", "возможности"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To leave a job",
+        "To get an initial opportunity",
+        "To close a deal",
+        "To miss a chance"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_129",
+        "idiom": "by the book",
+        "translation": "делать всё строго по правилам",
+        "meaning": "To follow rules or procedures exactly and strictly.",
+        "example_1": "She always does everything by the book.",
+        "example_2": "The audit was conducted by the book — no shortcuts.",
+        "level": "B2",
+        "tags": ["правила", "формальность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To improvise",
+        "To follow rules strictly",
+        "To read a novel",
+        "To break the law"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_130",
+        "idiom": "on the same page",
+        "translation": "быть на одной волне",
+        "meaning": "To agree or understand something in the same way.",
+        "example_1": "Let’s make sure we’re on the same page before we start.",
+        "example_2": "The team wasn’t on the same page, so the project failed.",
+        "level": "B2",
+        "tags": ["общение", "согласие"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To disagree",
+        "To understand something the same way",
+        "To read together",
+        "To argue"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_131",
+        "idiom": "put your nose to the grindstone",
+        "translation": "усердно работать",
+        "meaning": "To work very hard and diligently.",
+        "example_1": "He put his nose to the grindstone and finished the report.",
+        "example_2": "She’s had her nose to the grindstone all week.",
+        "level": "C1",
+        "tags": ["работа", "усердие"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To relax",
+        "To work hard",
+        "To smell something",
+        "To take a break"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_132",
+        "idiom": "touch base",
+        "translation": "связаться, обсудить ситуацию",
+        "meaning": "To make contact or briefly communicate.",
+        "example_1": "Let’s touch base next week about the proposal.",
+        "example_2": "She touched base with her manager before leaving.",
+        "level": "B2",
+        "tags": ["общение", "работа"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To play sports",
+        "To make brief contact",
+        "To argue",
+        "To take notes"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_133",
+        "idiom": "call the shots",
+        "translation": "принимать решения",
+        "meaning": "To be in control or make the decisions.",
+        "example_1": "She’s the one calling the shots in the team.",
+        "example_2": "The manager called the shots during the meeting.",
+        "level": "B2",
+        "tags": ["лидерство", "контроль"],
+        "usage": "informal",
+        "quiz_options": [
+        "To follow orders",
+        "To make decisions",
+        "To shoot a ball",
+        "To give advice"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_134",
+        "idiom": "behind the scenes",
+        "translation": "за кулисами",
+        "meaning": "Happening secretly or out of public view.",
+        "example_1": "A lot of work happens behind the scenes before a launch.",
+        "example_2": "She’s managing everything behind the scenes.",
+        "level": "B2",
+        "tags": ["организация", "невидимая работа"],
+        "usage": "neutral",
+        "quiz_options": [
+        "In public view",
+        "Secretly or privately",
+        "On stage",
+        "In front of the camera"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_135",
+        "idiom": "at the top of your game",
+        "translation": "быть на вершине успеха",
+        "meaning": "To be performing at your best level.",
+        "example_1": "She’s at the top of her game in marketing.",
+        "example_2": "He was at the top of his game during the tournament.",
+        "level": "C1",
+        "tags": ["успех", "производительность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be struggling",
+        "To be performing poorly",
+        "To be at your best",
+        "To be learning"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_136",
+        "idiom": "sink or swim",
+        "translation": "справляться самому",
+        "meaning": "To succeed or fail without help.",
+        "example_1": "New hires are expected to sink or swim.",
+        "example_2": "He was thrown into the role and had to sink or swim.",
+        "level": "C1",
+        "tags": ["адаптация", "испытание"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be rescued",
+        "To succeed or fail on your own",
+        "To go swimming",
+        "To avoid responsibility"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_137",
+        "idiom": "ballpark figure",
+        "translation": "приблизительная оценка",
+        "meaning": "An approximate number or estimate.",
+        "example_1": "Can you give me a ballpark figure for the cost?",
+        "example_2": "The ballpark figure was around $10,000.",
+        "level": "B2",
+        "tags": ["оценка", "финансы"],
+        "usage": "neutral",
+        "quiz_options": [
+        "An exact number",
+        "An approximate estimate",
+        "A sports score",
+        "A random guess"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_138",
+        "idiom": "crunch time",
+        "translation": "период срочной работы",
+        "meaning": "A critical period when pressure is high and results are needed.",
+        "example_1": "It’s crunch time — the deadline is tomorrow.",
+        "example_2": "During crunch time, the team worked overtime.",
+        "level": "C1",
+        "tags": ["дедлайн", "напряжение"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A relaxing moment",
+        "A critical and busy period",
+        "A snack break",
+        "A planning phase"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_139",
+        "idiom": "win-win situation",
+        "translation": "ситуация, в которой выигрывают все",
+        "meaning": "A situation where all parties benefit.",
+        "example_1": "This deal is a win-win situation for both sides.",
+        "example_2": "They found a win-win solution to the conflict.",
+        "level": "B2",
+        "tags": ["сотрудничество", "результат"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Only one side benefits",
+        "Everyone loses",
+        "All parties benefit",
+        "No one agrees"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_140",
+        "idiom": "hit it off",
+        "translation": "быстро подружиться",
+        "meaning": "To quickly form a good relationship or connection with someone.",
+        "example_1": "They hit it off the moment they met.",
+        "example_2": "I didn’t expect to hit it off with my new colleague so fast.",
+        "level": "B2",
+        "tags": ["отношения", "общение"],
+        "usage": "informal",
+        "quiz_options": [
+        "To argue immediately",
+        "To quickly become friends",
+        "To ignore someone",
+        "To meet accidentally"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_141",
+        "idiom": "see eye to eye",
+        "translation": "сходиться во мнениях",
+        "meaning": "To agree or have the same opinion.",
+        "example_1": "We rarely see eye to eye on politics.",
+        "example_2": "They see eye to eye on how to raise their children.",
+        "level": "B2",
+        "tags": ["мнение", "согласие"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To disagree",
+        "To agree completely",
+        "To look at each other",
+        "To avoid conflict"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_142",
+        "idiom": "through thick and thin",
+        "translation": "быть рядом в любых ситуациях",
+        "meaning": "To support someone in good times and bad.",
+        "example_1": "She stayed with him through thick and thin.",
+        "example_2": "True friends are there through thick and thin.",
+        "level": "B2",
+        "tags": ["дружба", "поддержка"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Only in good times",
+        "Only in bad times",
+        "In all situations",
+        "Occasionally"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_143",
+        "idiom": "a shoulder to cry on",
+        "translation": "человек, которому можно поплакаться",
+        "meaning": "Someone who listens and offers comfort during difficult times.",
+        "example_1": "After the breakup, she needed a shoulder to cry on.",
+        "example_2": "He’s always been my shoulder to cry on.",
+        "level": "B2",
+        "tags": ["эмоции", "поддержка"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Someone who gives advice",
+        "Someone who listens and comforts",
+        "Someone who argues",
+        "Someone who avoids problems"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_144",
+        "idiom": "speak the same language",
+        "translation": "понимать друг друга без слов",
+        "meaning": "To understand each other easily, often due to shared values or thinking.",
+        "example_1": "We speak the same language when it comes to design.",
+        "example_2": "They speak the same language — no need for long explanations.",
+        "level": "B2",
+        "tags": ["общение", "понимание"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To speak fluently",
+        "To understand each other easily",
+        "To translate words",
+        "To argue often"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_145",
+        "idiom": "birds of a feather flock together",
+        "translation": "люди с общими интересами тянутся друг к другу",
+        "meaning": "People with similar interests or personalities tend to associate with each other.",
+        "example_1": "All the artists sat together — birds of a feather flock together.",
+        "example_2": "Gamers often find each other online — birds of a feather.",
+        "level": "C1",
+        "tags": ["социальные связи", "интересы"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Opposites attract",
+        "Similar people stick together",
+        "Birds fly in groups",
+        "People avoid each other"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_146",
+        "idiom": "bury the hatchet",
+        "translation": "помириться после ссоры",
+        "meaning": "To make peace and end a conflict.",
+        "example_1": "They finally buried the hatchet after years of rivalry.",
+        "example_2": "Let’s bury the hatchet and move on.",
+        "level": "B2",
+        "tags": ["мир", "конфликт"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To start a fight",
+        "To make peace",
+        "To hide something",
+        "To avoid someone"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_147",
+        "idiom": "fair-weather friend",
+        "translation": "друг, который рядом только в хорошие времена",
+        "meaning": "Someone who is only supportive when things are going well.",
+        "example_1": "He turned out to be a fair-weather friend when I lost my job.",
+        "example_2": "She’s a fair-weather friend — never around during hard times.",
+        "level": "C1",
+        "tags": ["дружба", "ненадёжность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A loyal friend",
+        "A seasonal visitor",
+        "A friend only in good times",
+        "A weather expert"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_148",
+        "idiom": "like two peas in a pod",
+        "translation": "быть очень похожими",
+        "meaning": "To be very similar or close in appearance or behavior.",
+        "example_1": "They’re like two peas in a pod — always together.",
+        "example_2": "The twins are like two peas in a pod.",
+        "level": "B2",
+        "tags": ["сходство", "дружба"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Very different",
+        "Very similar or close",
+        "Occasional friends",
+        "Opposites"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_149",
+        "idiom": "be joined at the hip",
+        "translation": "быть неразлучными друзьями",
+        "meaning": "To be inseparable or always together.",
+        "example_1": "Those two are joined at the hip — you never see one without the other.",
+        "example_2": "They’ve been joined at the hip since childhood.",
+        "level": "C1",
+        "tags": ["дружба", "близость"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be distant",
+        "To be inseparable",
+        "To be competitive",
+        "To be related"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_150",
+        "idiom": "love at first sight",
+        "translation": "любовь с первого взгляда",
+        "meaning": "An immediate and strong romantic attraction to someone upon first meeting.",
+        "example_1": "It was love at first sight when they met at the airport.",
+        "example_2": "He believes in love at first sight — just like in the movies.",
+        "level": "B2",
+        "tags": ["романтика", "влюблённость"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To fall in love slowly",
+        "To dislike someone instantly",
+        "To fall in love immediately",
+        "To meet someone online"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_151",
+        "idiom": "head over heels in love",
+        "translation": "быть безумно влюблённым",
+        "meaning": "To be completely and deeply in love.",
+        "example_1": "She’s head over heels in love with her fiancé.",
+        "example_2": "He fell head over heels in love after their first date.",
+        "level": "B2",
+        "tags": ["романтика", "эмоции"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be mildly interested",
+        "To be deeply in love",
+        "To be confused",
+        "To fall physically"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_152",
+        "idiom": "tie the knot",
+        "translation": "пожениться",
+        "meaning": "To get married.",
+        "example_1": "They tied the knot in a small ceremony last summer.",
+        "example_2": "After ten years together, they finally tied the knot.",
+        "level": "B1",
+        "tags": ["брак", "отношения"],
+        "usage": "informal",
+        "quiz_options": [
+        "To break up",
+        "To get married",
+        "To go on vacation",
+        "To start dating"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_153",
+        "idiom": "pop the question",
+        "translation": "сделать предложение руки и сердца",
+        "meaning": "To ask someone to marry you.",
+        "example_1": "He popped the question during their trip to Paris.",
+        "example_2": "She was shocked when he popped the question at dinner.",
+        "level": "B2",
+        "tags": ["брак", "романтика"],
+        "usage": "informal",
+        "quiz_options": [
+        "To ask a random question",
+        "To propose marriage",
+        "To start a conversation",
+        "To ask for help"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_154",
+        "idiom": "wear your heart on your sleeve",
+        "translation": "открыто выражать чувства",
+        "meaning": "To openly show your emotions and feelings.",
+        "example_1": "He wears his heart on his sleeve and never hides his feelings.",
+        "example_2": "She’s not afraid to wear her heart on her sleeve.",
+        "level": "C1",
+        "tags": ["эмоции", "открытость"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To hide emotions",
+        "To express emotions openly",
+        "To wear something unusual",
+        "To be shy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_155",
+        "idiom": "sweep someone off their feet",
+        "translation": "покорить, очаровать кого-то",
+        "meaning": "To impress someone greatly and make them fall in love quickly.",
+        "example_1": "He swept her off her feet with his charm and kindness.",
+        "example_2": "She was swept off her feet by the romantic surprise.",
+        "level": "C1",
+        "tags": ["романтика", "впечатление"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To push someone",
+        "To impress and make someone fall in love",
+        "To dance together",
+        "To confuse someone"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_156",
+        "idiom": "match made in heaven",
+        "translation": "идеальная пара",
+        "meaning": "A perfect romantic or working partnership.",
+        "example_1": "They’re a match made in heaven — so compatible.",
+        "example_2": "The collaboration was a match made in heaven.",
+        "level": "B2",
+        "tags": ["отношения", "совместимость"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A bad pairing",
+        "A perfect match",
+        "A religious couple",
+        "A random meeting"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_157",
+        "idiom": "break someone’s heart",
+        "translation": "разбить чьё-то сердце",
+        "meaning": "To cause someone emotional pain, especially in love.",
+        "example_1": "She broke his heart when she left him.",
+        "example_2": "It broke my heart to see him cry.",
+        "level": "B1",
+        "tags": ["эмоции", "разрыв"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To make someone happy",
+        "To cause emotional pain",
+        "To fall in love",
+        "To ignore someone"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_158",
+        "idiom": "kiss and make up",
+        "translation": "помириться после ссоры",
+        "meaning": "To reconcile after an argument or disagreement.",
+        "example_1": "They had a fight but kissed and made up the next day.",
+        "example_2": "Let’s kiss and make up — this argument isn’t worth it.",
+        "level": "B2",
+        "tags": ["мир", "отношения"],
+        "usage": "informal",
+        "quiz_options": [
+        "To continue fighting",
+        "To reconcile after a disagreement",
+        "To start dating",
+        "To ignore each other"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_159",
+        "idiom": "love is blind",
+        "translation": "любовь слепа",
+        "meaning": "When someone is in love, they may overlook faults or flaws in the other person.",
+        "example_1": "She forgave him again — love is blind.",
+        "example_2": "He didn’t notice her selfishness — love is blind, they say.",
+        "level": "B2",
+        "tags": ["романтика", "эмоции"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Love makes people angry",
+        "Love makes people ignore flaws",
+        "Love is logical",
+        "Love is temporary"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_160",
+        "idiom": "on the rocks",
+        "translation": "отношения на грани разрыва",
+        "meaning": "In serious trouble or close to failing, especially in relationships.",
+        "example_1": "Their marriage is on the rocks after months of fighting.",
+        "example_2": "The partnership is on the rocks due to financial issues.",
+        "level": "C1",
+        "tags": ["отношения", "кризис"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Going smoothly",
+        "In serious trouble",
+        "Very romantic",
+        "Just beginning"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_161",
+        "idiom": "give someone the cold shoulder",
+        "translation": "игнорировать, холодно относиться",
+        "meaning": "To deliberately ignore someone or treat them in an unfriendly way.",
+        "example_1": "He gave me the cold shoulder after the argument.",
+        "example_2": "She gave him the cold shoulder at the party.",
+        "level": "B2",
+        "tags": ["отношения", "игнорирование"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To welcome someone warmly",
+        "To ignore or treat someone coldly",
+        "To offer help",
+        "To give advice"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_162",
+        "idiom": "have a soft spot for someone",
+        "translation": "испытывать слабость к кому-то",
+        "meaning": "To feel affection or fondness for someone, often despite their flaws.",
+        "example_1": "She has a soft spot for stray animals.",
+        "example_2": "He has a soft spot for his younger brother.",
+        "level": "B2",
+        "tags": ["эмоции", "привязанность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To dislike someone",
+        "To feel affection or fondness",
+        "To be confused",
+        "To be competitive"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_163",
+        "idiom": "play hard to get",
+        "translation": "строить из себя недоступного",
+        "meaning": "To act uninterested or distant to increase someone’s desire or attention.",
+        "example_1": "She’s playing hard to get to keep him interested.",
+        "example_2": "He played hard to get, and it worked.",
+        "level": "C1",
+        "tags": ["романтика", "поведение"],
+        "usage": "informal",
+        "quiz_options": [
+        "To be very eager",
+        "To act uninterested to attract someone",
+        "To avoid relationships",
+        "To play games"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_164",
+        "idiom": "a blessing in disguise",
+        "translation": "неприятность, которая обернулась к лучшему",
+        "meaning": "Something that seems bad at first but results in something good.",
+        "example_1": "Losing that job was a blessing in disguise — it led to a better opportunity.",
+        "example_2": "Her injury turned out to be a blessing in disguise, giving her time to write.",
+        "level": "B2",
+        "tags": ["парадокс", "перемены"],
+        "usage": "neutral",
+        "quiz_options": [
+        "A clear benefit",
+        "A hidden advantage",
+        "A serious problem",
+        "A random event"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_165",
+        "idiom": "the best of both worlds",
+        "translation": "лучшее из двух вариантов",
+        "meaning": "A situation where one can enjoy the benefits of two different things.",
+        "example_1": "Working remotely gives me the best of both worlds — flexibility and income.",
+        "example_2": "Living in the suburbs offers the best of both worlds: peace and proximity to the city.",
+        "level": "B2",
+        "tags": ["баланс", "выгода"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Only one benefit",
+        "A compromise",
+        "Two advantages at once",
+        "A difficult choice"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_166",
+        "idiom": "a dime a dozen",
+        "translation": "что-то очень распространённое",
+        "meaning": "Very common and not particularly valuable.",
+        "example_1": "Cheap souvenirs are a dime a dozen in tourist areas.",
+        "example_2": "Online influencers are a dime a dozen these days.",
+        "level": "B2",
+        "tags": ["ценность", "частотность"],
+        "usage": "informal",
+        "quiz_options": [
+        "Rare and expensive",
+        "Common and easily found",
+        "Difficult to obtain",
+        "Highly respected"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_167",
+        "idiom": "get a taste of your own medicine",
+        "translation": "получить по заслугам",
+        "meaning": "To experience the same negative treatment one has given to others.",
+        "example_1": "He got a taste of his own medicine when his prank backfired.",
+        "example_2": "She was rude and finally got a taste of her own medicine.",
+        "level": "C1",
+        "tags": ["справедливость", "возмездие"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To receive a reward",
+        "To experience what you’ve done to others",
+        "To take medicine",
+        "To forgive someone"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_168",
+        "idiom": "go with the flow",
+        "translation": "плыть по течению",
+        "meaning": "To accept things as they happen and not resist change.",
+        "example_1": "I used to plan everything, but now I just go with the flow.",
+        "example_2": "She went with the flow and ended up enjoying the spontaneous trip.",
+        "level": "B2",
+        "tags": ["адаптация", "поведение"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To resist change",
+        "To follow a strict plan",
+        "To accept things calmly",
+        "To swim in a river"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": "idiom_169",
+        "idiom": "bite the dust",
+        "translation": "потерпеть поражение",
+        "meaning": "To fail, be defeated, or die (figuratively or literally).",
+        "example_1": "Another startup bit the dust after just six months.",
+        "example_2": "His old car finally bit the dust last week.",
+        "level": "C1",
+        "tags": ["поражение", "завершение"],
+        "usage": "informal",
+        "quiz_options": [
+        "To succeed",
+        "To fail or be defeated",
+        "To eat something",
+        "To clean the floor"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_170",
+        "idiom": "cut to the chase",
+        "translation": "перейти сразу к делу",
+        "meaning": "To skip unnecessary details and get to the main point.",
+        "example_1": "Let’s cut to the chase — what’s the final decision?",
+        "example_2": "He cut to the chase and asked for a raise.",
+        "level": "B2",
+        "tags": ["общение", "эффективность"],
+        "usage": "informal",
+        "quiz_options": [
+        "To tell a story",
+        "To get to the point quickly",
+        "To avoid the topic",
+        "To go for a run"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_171",
+        "idiom": "a golden handshake",
+        "translation": "щедрое выходное пособие",
+        "meaning": "A large sum of money given to someone when they leave a job.",
+        "example_1": "The CEO received a golden handshake upon retirement.",
+        "example_2": "He left the company with a golden handshake worth millions.",
+        "level": "C1",
+        "tags": ["работа", "компенсация"],
+        "usage": "formal",
+        "quiz_options": [
+        "A job promotion",
+        "A generous severance payment",
+        "A business deal",
+        "A handshake agreement"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_172",
+        "idiom": "rock the boat",
+        "translation": "создавать проблемы",
+        "meaning": "To cause trouble or disrupt a stable situation.",
+        "example_1": "Don’t rock the boat — we’ve just reached an agreement.",
+        "example_2": "She rocked the boat by questioning the manager’s decision.",
+        "level": "B2",
+        "tags": ["конфликт", "стабильность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To go sailing",
+        "To cause disruption",
+        "To relax",
+        "To follow instructions"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_173",
+        "idiom": "get the ball rolling",
+        "translation": "запустить процесс",
+        "meaning": "To start an activity or process, especially one that leads to something bigger.",
+        "example_1": "Let’s get the ball rolling on the new campaign.",
+        "example_2": "She got the ball rolling by sending the first draft.",
+        "level": "B2",
+        "tags": ["инициатива", "работа"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To stop a project",
+        "To start something important",
+        "To play sports",
+        "To delay action"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_174",
+        "idiom": "work your fingers to the bone",
+        "translation": "работать не покладая рук",
+        "meaning": "To work extremely hard, often to the point of exhaustion.",
+        "example_1": "She worked her fingers to the bone to support her family.",
+        "example_2": "He’s been working his fingers to the bone on this report.",
+        "level": "C1",
+        "tags": ["усердие", "нагрузка"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To relax often",
+        "To work extremely hard",
+        "To injure your hands",
+        "To type quickly"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_175",
+        "idiom": "not my cup of tea",
+        "translation": "не по душе",
+        "meaning": "Something that one does not particularly like or enjoy.",
+        "example_1": "Horror movies are not my cup of tea.",
+        "example_2": "Camping is fun for some, but it’s not my cup of tea.",
+        "level": "B1",
+        "tags": ["предпочтения", "мнение"],
+        "usage": "neutral",
+        "quiz_options": [
+        "Something you love",
+        "Something you dislike",
+        "A type of drink",
+        "A relaxing activity"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_176",
+        "idiom": "learn the hard way",
+        "translation": "учиться на своих ошибках",
+        "meaning": "To learn something through difficult or painful experience.",
+        "example_1": "He learned the hard way not to ignore deadlines.",
+        "example_2": "She learned the hard way that trust must be earned.",
+        "level": "B2",
+        "tags": ["опыт", "ошибки"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To learn easily",
+        "To learn through mistakes",
+        "To teach others",
+        "To avoid learning"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_177",
+        "idiom": "steal the show",
+        "translation": "быть в центре внимания",
+        "meaning": "To attract the most attention or praise, often unexpectedly.",
+        "example_1": "Her performance stole the show at the event.",
+        "example_2": "The youngest speaker stole the show with his speech.",
+        "level": "B2",
+        "tags": ["впечатление", "успех"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To ruin the event",
+        "To attract the most attention",
+        "To leave early",
+        "To criticize others"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_178",
+        "idiom": "go big or go home",
+        "translation": "рисковать по-крупному",
+        "meaning": "To commit fully and take bold action, or not bother at all.",
+        "example_1": "He invested everything — go big or go home.",
+        "example_2": "She went big or went home with her business pitch.",
+        "level": "C1",
+        "tags": ["риск", "мотивация"],
+        "usage": "informal",
+        "quiz_options": [
+        "To play it safe",
+        "To take bold action or quit",
+        "To go shopping",
+        "To avoid decisions"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_179",
+        "idiom": "hit the bull’s eye",
+        "translation": "попасть в яблочко",
+        "meaning": "To be exactly right or accurate.",
+        "example_1": "Her analysis hit the bull’s eye.",
+        "example_2": "He hit the bull’s eye with his prediction.",
+        "level": "B2",
+        "tags": ["точность", "успех"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To miss the point",
+        "To be exactly right",
+        "To shoot an arrow",
+        "To guess randomly"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_180",
+        "idiom": "make a name for yourself",
+        "translation": "заработать себе имя",
+        "meaning": "To become well-known or respected in a particular field.",
+        "example_1": "She made a name for herself in tech.",
+        "example_2": "He made a name for himself as a designer.",
+        "level": "B2",
+        "tags": ["репутация", "карьера"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To remain unknown",
+        "To become well-known",
+        "To change your name",
+        "To start a business"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_181",
+        "idiom": "clinch the deal",
+        "translation": "заключить сделку",
+        "meaning": "To finalize or secure an agreement.",
+        "example_1": "He clinched the deal after a long negotiation.",
+        "example_2": "Her presentation clinched the deal with the client.",
+        "level": "C1",
+        "tags": ["бизнес", "договорённость"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To cancel a deal",
+        "To finalize an agreement",
+        "To argue with a client",
+        "To delay a decision"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_182",
+        "idiom": "be ahead of the curve",
+        "translation": "быть впереди всех",
+        "meaning": "To be more advanced or innovative than others.",
+        "example_1": "Their company is ahead of the curve in AI development.",
+        "example_2": "She’s ahead of the curve in marketing trends.",
+        "level": "C1",
+        "tags": ["инновации", "лидерство"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be outdated",
+        "To be more advanced",
+        "To be confused",
+        "To follow others"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_183",
+        "idiom": "go out on a limb",
+        "translation": "рискнуть ради успеха",
+        "meaning": "To take a risk or support something uncertain.",
+        "example_1": "She went out on a limb to defend her idea.",
+        "example_2": "He went out on a limb by investing early.",
+        "level": "C1",
+        "tags": ["риск", "решительность"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To play it safe",
+        "To take a risk",
+        "To climb a tree",
+        "To avoid decisions"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_184",
+        "idiom": "put your best foot forward",
+        "translation": "показать себя с лучшей стороны",
+        "meaning": "To make a good impression by acting positively and confidently.",
+        "example_1": "She put her best foot forward during the interview.",
+        "example_2": "He always puts his best foot forward at meetings.",
+        "level": "B2",
+        "tags": ["впечатление", "поведение"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To act carelessly",
+        "To make a good impression",
+        "To walk quickly",
+        "To avoid attention"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_201",
+        "idiom": "make waves",
+        "translation": "привлекать внимание, создавать эффект",
+        "meaning": "To cause a noticeable impact or attract attention, often by challenging norms.",
+        "example_1": "Her bold ideas made waves in the industry.",
+        "example_2": "He made waves with his controversial speech.",
+        "level": "C1",
+        "tags": ["влияние", "внимание"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To stay quiet",
+        "To attract attention or cause disruption",
+        "To go swimming",
+        "To avoid conflict"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_186",
+        "idiom": "reach for the stars",
+        "translation": "стремиться к большему",
+        "meaning": "To aim for something very ambitious or difficult to achieve.",
+        "example_1": "She’s always encouraged her students to reach for the stars.",
+        "example_2": "He reached for the stars and built a successful company.",
+        "level": "B2",
+        "tags": ["мотивация", "цели"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To give up easily",
+        "To aim for ambitious goals",
+        "To look at the sky",
+        "To follow instructions"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_187",
+        "idiom": "give someone the benefit of the doubt",
+        "translation": "поверить на слово",
+        "meaning": "To choose to believe someone, even if you're not sure they’re telling the truth.",
+        "example_1": "I’ll give him the benefit of the doubt — maybe he really forgot.",
+        "example_2": "She gave her colleague the benefit of the doubt after the mistake.",
+        "level": "C1",
+        "tags": ["доверие", "отношения"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To accuse someone",
+        "To believe someone without proof",
+        "To ignore someone",
+        "To ask for evidence"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_188",
+        "idiom": "bite the hand that feeds you",
+        "translation": "кусать руку, которая тебя кормит",
+        "meaning": "To harm or act against someone who helps or supports you.",
+        "example_1": "He bit the hand that fed him by criticizing his mentor.",
+        "example_2": "Don’t bite the hand that feeds you — be grateful.",
+        "level": "C1",
+        "tags": ["неблагодарность", "отношения"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To thank someone",
+        "To harm someone who helps you",
+        "To eat quickly",
+        "To ask for help"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_189",
+        "idiom": "have someone's back",
+        "translation": "поддерживать кого-то",
+        "meaning": "To support and protect someone, especially in difficult situations.",
+        "example_1": "Don’t worry — I’ve got your back.",
+        "example_2": "She always has her team’s back during tough times.",
+        "level": "B2",
+        "tags": ["поддержка", "дружба"],
+        "usage": "informal",
+        "quiz_options": [
+        "To ignore someone",
+        "To support and protect someone",
+        "To stand behind someone",
+        "To criticize someone"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_190",
+        "idiom": "throw someone under the bus",
+        "translation": "предать, подставить кого-то",
+        "meaning": "To betray someone or sacrifice them for personal gain.",
+        "example_1": "He threw his colleague under the bus to save his own job.",
+        "example_2": "She felt thrown under the bus during the meeting.",
+        "level": "C1",
+        "tags": ["предательство", "отношения"],
+        "usage": "informal",
+        "quiz_options": [
+        "To protect someone",
+        "To betray someone for personal gain",
+        "To help a friend",
+        "To take responsibility"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_191",
+        "idiom": "like chalk and cheese",
+        "translation": "быть совершенно разными",
+        "meaning": "To be completely different from each other.",
+        "example_1": "My brother and I are like chalk and cheese.",
+        "example_2": "Their personalities are like chalk and cheese — it’s surprising they’re friends.",
+        "level": "B2",
+        "tags": ["сравнение", "различие"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be very similar",
+        "To be completely different",
+        "To be competitive",
+        "To be confused"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_192",
+        "idiom": "keep someone at arm’s length",
+        "translation": "держать на расстоянии",
+        "meaning": "To avoid becoming too close or emotionally involved with someone.",
+        "example_1": "He keeps most people at arm’s length.",
+        "example_2": "She kept her ex at arm’s length after the breakup.",
+        "level": "C1",
+        "tags": ["дистанция", "отношения"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be very close",
+        "To avoid emotional closeness",
+        "To hug someone",
+        "To ignore someone completely"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_193",
+        "idiom": "turn a blind eye",
+        "translation": "закрывать глаза на что-то",
+        "meaning": "To deliberately ignore something wrong or inappropriate.",
+        "example_1": "The manager turned a blind eye to the late arrivals.",
+        "example_2": "She turned a blind eye to the cheating in class.",
+        "level": "B2",
+        "tags": ["игнорирование", "мораль"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To report a problem",
+        "To ignore something deliberately",
+        "To look away accidentally",
+        "To be unaware"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_194",
+        "idiom": "be in someone’s good books",
+        "translation": "быть у кого-то в фаворе",
+        "meaning": "To be liked or approved by someone, especially a person in authority.",
+        "example_1": "She’s in the boss’s good books after finishing the project early.",
+        "example_2": "He’s trying to get back in her good books after the argument.",
+        "level": "B2",
+        "tags": ["отношения", "репутация"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be disliked",
+        "To be liked or approved",
+        "To read a book together",
+        "To be ignored"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_195",
+        "idiom": "walk a mile in someone’s shoes",
+        "translation": "поставить себя на место другого",
+        "meaning": "To understand someone’s experience by imagining yourself in their situation.",
+        "example_1": "Try walking a mile in her shoes before judging her.",
+        "example_2": "He learned empathy by walking a mile in his father’s shoes.",
+        "level": "C1",
+        "tags": ["эмпатия", "понимание"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To go for a walk",
+        "To understand someone’s experience",
+        "To borrow shoes",
+        "To avoid responsibility"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_196",
+        "idiom": "off the beaten track",
+        "translation": "в стороне от туристических мест",
+        "meaning": "In a place that is not well known or frequently visited.",
+        "example_1": "We found a quiet beach off the beaten track.",
+        "example_2": "She prefers destinations that are off the beaten track.",
+        "level": "B2",
+        "tags": ["путешествия", "местоположение"],
+        "usage": "neutral",
+        "quiz_options": [
+        "In a popular location",
+        "In a remote or less-visited place",
+        "In a crowded city",
+        "In a famous tourist spot"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_197",
+        "idiom": "have itchy feet",
+        "translation": "иметь страсть к путешествиям",
+        "meaning": "To feel a strong desire to travel or move around.",
+        "example_1": "After a few months at home, I started to have itchy feet.",
+        "example_2": "She’s always had itchy feet — never stays in one place for long.",
+        "level": "B2",
+        "tags": ["путешествия", "поведение"],
+        "usage": "informal",
+        "quiz_options": [
+        "To feel uncomfortable",
+        "To want to travel",
+        "To be tired",
+        "To avoid walking"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_198",
+        "idiom": "at a crossroads",
+        "translation": "быть на перепутье",
+        "meaning": "To be at a point where a major decision must be made.",
+        "example_1": "He’s at a crossroads in his career.",
+        "example_2": "After graduation, she found herself at a crossroads.",
+        "level": "B2",
+        "tags": ["решения", "жизненные этапы"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To be lost",
+        "To face a major decision",
+        "To travel frequently",
+        "To avoid responsibility"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_199",
+        "idiom": "throw your hat in the ring",
+        "translation": "решиться принять участие",
+        "meaning": "To announce your intention to compete or participate.",
+        "example_1": "She threw her hat in the ring for the leadership role.",
+        "example_2": "He finally threw his hat in the ring and applied for the job.",
+        "level": "C1",
+        "tags": ["инициатива", "участие"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To give up",
+        "To join a competition or challenge",
+        "To wear a hat",
+        "To avoid responsibility"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": "idiom_200",
+        "idiom": "live out of a suitcase",
+        "translation": "постоянно быть в разъездах",
+        "meaning": "To travel frequently and not stay in one place for long.",
+        "example_1": "He’s been living out of a suitcase since the tour began.",
+        "example_2": "She lived out of a suitcase for months while working abroad.",
+        "level": "B2",
+        "tags": ["путешествия", "образ жизни"],
+        "usage": "neutral",
+        "quiz_options": [
+        "To pack for vacation",
+        "To travel constantly",
+        "To live in a hotel",
+        "To avoid unpacking"
+        ],
+        "correct_option": 1
+    }
+]

@@ -23,8 +23,16 @@ async function fetchVocabulary() {
         word: cleanText(r.Word),
         translation: cleanText(r.Translation),
       }));
+    
+    const seen = new Set();
+    const uniqueRecords = cleanRecords.filter(r => {
+      const key = r.word.trim().toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
 
-    return cleanRecords;
+    return uniqueRecords;
   } catch (error) {
     console.error('Ошибка при загрузке таблицы:', error.message);
     return [];

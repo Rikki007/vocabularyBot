@@ -1,6 +1,6 @@
 [
     {
-        "id": "idiom_001",
+        "id": 1,
         "idiom": "break the ice",
         "translation": "разрядить обстановку, начать разговор",
         "meaning": "To initiate conversation in a social setting and reduce tension.",
@@ -18,7 +18,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_002",
+        "id": 2,
         "idiom": "rain cats and dogs",
         "translation": "лить как из ведра",
         "meaning": "To rain very heavily.",
@@ -36,7 +36,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_003",
+        "id": 3,
         "idiom": "face like thunder",
         "translation": "мрачнее тучи",
         "meaning": "To look extremely angry or upset.",
@@ -54,7 +54,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_004",
+        "id": 4,
         "idiom": "storm in a teacup",
         "translation": "буря в стакане воды",
         "meaning": "A lot of fuss about something unimportant.",
@@ -72,7 +72,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_005",
+        "id": 5,
         "idiom": "chase rainbows",
         "translation": "гнаться за недостижимым",
         "meaning": "To pursue unrealistic or impossible goals.",
@@ -90,7 +90,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_006",
+        "id": 6,
         "idiom": "lightning-fast",
         "translation": "молниеносный",
         "meaning": "Extremely fast or quick.",
@@ -108,7 +108,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_007",
+        "id": 7,
         "idiom": "have one's head in the clouds",
         "translation": "витать в облаках",
         "meaning": "To be out of touch with reality or lost in daydreams.",
@@ -126,7 +126,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_008",
+        "id": 8,
         "idiom": "be snowed under",
         "translation": "быть перегруженным работой",
         "meaning": "To be overwhelmed with too much work or tasks.",
@@ -144,7 +144,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_009",
+        "id": 9,
         "idiom": "be under the weather",
         "translation": "недомогать",
         "meaning": "To feel slightly ill or unwell.",
@@ -162,7 +162,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_010",
+        "id": 10,
         "idiom": "twist in the wind",
         "translation": "томиться",
         "meaning": "To be left in a vulnerable or uncertain situation without support.",
@@ -180,7 +180,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_011",
+        "id": 11,
         "idiom": "under a cloud",
         "translation": "под подозрением",
         "meaning": "To be suspected of wrongdoing or dishonesty.",
@@ -198,7 +198,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_012",
+        "id": 12,
         "idiom": "as right as rain",
         "translation": "в полном порядке",
         "meaning": "To feel perfectly fine or healthy.",
@@ -216,7 +216,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_013",
+        "id": 13,
         "idiom": "for a rainy day",
         "translation": "на чёрный день",
         "meaning": "To save something, usually money, for future difficulties.",
@@ -234,7 +234,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_014",
+        "id": 14,
         "idiom": "bolt from the blue",
         "translation": "как снег на голову",
         "meaning": "A sudden and unexpected event or piece of news.",
@@ -252,7 +252,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_015",
+        "id": 15,
         "idiom": "throw caution to the winds",
         "translation": "перестать осторожничать",
         "meaning": "To act recklessly or take a risk without worrying about the consequences.",
@@ -270,7 +270,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_016",
+        "id": 16,
         "idiom": "weather the storm",
         "translation": "пережить трудные времена",
         "meaning": "To survive a difficult situation or period.",
@@ -288,7 +288,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_017",
+        "id": 17,
         "idiom": "sail close to the wind",
         "translation": "ходить по краю пропасти",
         "meaning": "To take risks or behave in a way that is almost improper or illegal.",
@@ -306,7 +306,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_018",
+        "id": 18,
         "idiom": "on cloud nine",
         "translation": "на седьмом небе от счастья",
         "meaning": "To be extremely happy or joyful.",
@@ -324,7 +324,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_019",
+        "id": 19,
         "idiom": "shoot the breeze",
         "translation": "болтать о пустяках",
         "meaning": "To chat casually about unimportant things.",
@@ -342,7 +342,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_020",
+        "id": 20,
         "idiom": "in a fog",
         "translation": "растерянный",
         "meaning": "To be confused or unable to think clearly.",
@@ -360,7 +360,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_021",
+        "id": 21,
         "idiom": "go down a storm",
         "translation": "удаться",
         "meaning": "To be very successful or well received.",
@@ -378,7 +378,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_022",
+        "id": 22,
         "idiom": "a piece of the pie",
         "translation": "доля",
         "meaning": "A share of something valuable, especially money or benefits.",
@@ -396,7 +396,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_023",
+        "id": 23,
         "idiom": "gravy train",
         "translation": "лёгкие деньги",
         "meaning": "A situation where someone makes money with little effort.",
@@ -414,7 +414,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_024",
+        "id": 24,
         "idiom": "bring home the bacon",
         "translation": "обеспечивать семью, преуспевать",
         "meaning": "To earn money to support a household.",
@@ -432,7 +432,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_025",
+        "id": 25,
         "idiom": "make ends meet",
         "translation": "сводить концы с концами",
         "meaning": "To manage financially, especially with difficulty.",
@@ -450,7 +450,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_026",
+        "id": 26,
         "idiom": "hit the jackpot",
         "translation": "сорвать куш",
         "meaning": "To have great success or win a large amount of money.",
@@ -468,7 +468,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_027",
+        "id": 27,
         "idiom": "be in the red",
         "translation": "быть в долгу",
         "meaning": "To owe money or be in financial trouble.",
@@ -486,7 +486,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_028",
+        "id": 28,
         "idiom": "make a bundle",
         "translation": "сделать кучу денег",
         "meaning": "To earn a large amount of money.",
@@ -504,7 +504,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_029",
+        "id": 29,
         "idiom": "bet your bottom dollar",
         "translation": "гарантировать что-либо",
         "meaning": "To be absolutely sure about something.",
@@ -522,7 +522,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_030",
+        "id": 30,
         "idiom": "look like a million dollars",
         "translation": "выглядеть на все сто",
         "meaning": "To look extremely attractive or well-dressed.",
@@ -540,7 +540,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_031",
+        "id": 31,
         "idiom": "cost a pretty penny",
         "translation": "стоить уйму денег",
         "meaning": "To be very expensive.",
@@ -558,7 +558,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_032",
+        "id": 32,
         "idiom": "go Dutch",
         "translation": "платить свою часть",
         "meaning": "To split the cost of something, especially a meal.",
@@ -576,7 +576,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_033",
+        "id": 33,
         "idiom": "nest egg",
         "translation": "заначка",
         "meaning": "A sum of money saved for the future, especially for retirement.",
@@ -594,7 +594,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_034",
+        "id": 34,
         "idiom": "golden handshake",
         "translation": "большое выходное пособие",
         "meaning": "A large sum of money given to someone when they leave a job.",
@@ -612,7 +612,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_035",
+        "id": 35,
         "idiom": "cheapskate",
         "translation": "скряга",
         "meaning": "A person who is unwilling to spend money.",
@@ -630,7 +630,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_036",
+        "id": 36,
         "idiom": "be flush with money",
         "translation": "купаться в роскоши",
         "meaning": "To have a lot of money available.",
@@ -648,7 +648,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_037",
+        "id": 37,
         "idiom": "at all costs",
         "translation": "любой ценой",
         "meaning": "No matter what the effort or expense, something must be done.",
@@ -666,7 +666,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_038",
+        "id": 38,
         "idiom": "live beyond one's means",
         "translation": "жить не по средствам",
         "meaning": "To spend more money than one can afford.",
@@ -684,7 +684,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_039",
+        "id": 39,
         "idiom": "break the bank",
         "translation": "сильно потратиться",
         "meaning": "To cost too much or use up all of one’s money.",
@@ -702,7 +702,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_040",
+        "id": 40,
         "idiom": "cost a fortune",
         "translation": "стоить целое состояние",
         "meaning": "To be extremely expensive.",
@@ -720,7 +720,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_041",
+        "id": 41,
         "idiom": "on the breadline",
         "translation": "за чертой бедности",
         "meaning": "To be extremely poor or living at a minimum level.",
@@ -738,7 +738,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_042",
+        "id": 42,
         "idiom": "once in a blue moon",
         "translation": "очень редко",
         "meaning": "Something that happens very infrequently.",
@@ -756,7 +756,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_043",
+        "id": 43,
         "idiom": "behind the times",
         "translation": "устаревший",
         "meaning": "Not keeping up with current trends or technology.",
@@ -774,7 +774,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_044",
+        "id": 44,
         "idiom": "time flies",
         "translation": "время летит",
         "meaning": "Time passes very quickly.",
@@ -792,7 +792,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_045",
+        "id": 45,
         "idiom": "the big time",
         "translation": "большой успех",
         "meaning": "A state of great success or fame.",
@@ -810,7 +810,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_046",
+        "id": 46,
         "idiom": "around the clock",
         "translation": "круглосуточно",
         "meaning": "Continuously, all day and night.",
@@ -828,7 +828,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_047",
+        "id": 47,
         "idiom": "dwell on the past",
         "translation": "жить прошлым",
         "meaning": "To think too much about past events, especially negative ones.",
@@ -846,7 +846,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_048",
+        "id": 48,
         "idiom": "have the time of one's life",
         "translation": "отлично провести время",
         "meaning": "To enjoy oneself greatly.",
@@ -864,7 +864,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_049",
+        "id": 49,
         "idiom": "crack of dawn",
         "translation": "с восходом солнца",
         "meaning": "Very early in the morning.",
@@ -882,7 +882,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_050",
+        "id": 50,
         "idiom": "run out of time",
         "translation": "иссякать",
         "meaning": "To have no time left to complete something.",
@@ -900,7 +900,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_051",
+        "id": 51,
         "idiom": "in the blink of an eye",
         "translation": "в одно мгновение",
         "meaning": "Very quickly; almost instantly.",
@@ -918,7 +918,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_052",
+        "id": 52,
         "idiom": "like clockwork",
         "translation": "без перебоя",
         "meaning": "To happen regularly or predictably, without problems.",
@@ -936,7 +936,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_053",
+        "id": 53,
         "idiom": "for donkey's years",
         "translation": "с незапамятных времён",
         "meaning": "For a very long time.",
@@ -954,7 +954,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_054",
+        "id": 54,
         "idiom": "pressed for time",
         "translation": "очень торопиться",
         "meaning": "To have very little time available.",
@@ -972,7 +972,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_055",
+        "id": 55,
         "idiom": "give someone a hard time",
         "translation": "отчитывать",
         "meaning": "To criticize or treat someone harshly.",
@@ -990,7 +990,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_056",
+        "id": 56,
         "idiom": "be ahead of time",
         "translation": "опережать",
         "meaning": "To be early or more advanced than expected.",
@@ -1008,7 +1008,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_057",
+        "id": 57,
         "idiom": "have a whale of a time",
         "translation": "замечательно провести время",
         "meaning": "To enjoy oneself greatly.",
@@ -1026,7 +1026,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_058",
+        "id": 58,
         "idiom": "go with the times",
         "translation": "идти в ногу со временем",
         "meaning": "To adapt to modern ideas or changes.",
@@ -1044,7 +1044,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_059",
+        "id": 59,
         "idiom": "on the spur of the moment",
         "translation": "с наскока",
         "meaning": "Suddenly and without planning.",
@@ -1062,7 +1062,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_060",
+        "id": 60,
         "idiom": "in broad daylight",
         "translation": "среди бела дня",
         "meaning": "In plain view during the daytime.",
@@ -1080,7 +1080,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_061",
+        "id": 61,
         "idiom": "catch unawares",
         "translation": "застигнуть врасплох",
         "meaning": "To surprise someone unexpectedly.",
@@ -1098,7 +1098,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_062",
+        "id": 62,
         "idiom": "monkey business",
         "translation": "бессмысленная работа",
         "meaning": "Silly or dishonest behavior; unproductive activity.",
@@ -1116,7 +1116,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_063",
+        "id": 63,
         "idiom": "smell a rat",
         "translation": "чуять недоброе",
         "meaning": "To suspect that something is wrong or dishonest.",
@@ -1134,7 +1134,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_064",
+        "id": 64,
         "idiom": "top dog",
         "translation": "победитель",
         "meaning": "The most important or successful person in a group.",
@@ -1152,7 +1152,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_065",
+        "id": 65,
         "idiom": "cash cow",
         "translation": "источник денежных средств",
         "meaning": "A product or business that generates a steady income.",
@@ -1170,7 +1170,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_066",
+        "id": 66,
         "idiom": "eager beaver",
         "translation": "работяга",
         "meaning": "A person who works very hard and enthusiastically.",
@@ -1188,7 +1188,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_067",
+        "id": 67,
         "idiom": "black sheep",
         "translation": "белая ворона",
         "meaning": "A person who is different from others in a group and often disapproved of.",
@@ -1206,7 +1206,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_068",
+        "id": 68,
         "idiom": "elephant in the room",
         "translation": "очевидная проблема",
         "meaning": "An obvious issue that people avoid discussing.",
@@ -1224,7 +1224,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_069",
+        "id": 69,
         "idiom": "when pigs fly",
         "translation": "когда рак свистнет",
         "meaning": "Something that will never happen.",
@@ -1242,7 +1242,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_070",
+        "id": 70,
         "idiom": "like a cat on a hot tin roof",
         "translation": "быть не в своей тарелке",
         "meaning": "To be extremely nervous or restless.",
@@ -1260,7 +1260,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_071",
+        "id": 71,
         "idiom": "in the doghouse",
         "translation": "в немилости",
         "meaning": "To be in trouble or disfavor with someone.",
@@ -1278,7 +1278,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_072",
+        "id": 72,
         "idiom": "be as busy as a bee",
         "translation": "трудиться, как пчела",
         "meaning": "To be very busy and active.",
@@ -1296,7 +1296,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_073",
+        "id": 73,
         "idiom": "let the cat out of the bag",
         "translation": "выпустить кота из мешка",
         "meaning": "To reveal a secret unintentionally.",
@@ -1314,7 +1314,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_074",
+        "id": 74,
         "idiom": "horse around",
         "translation": "валять дурака",
         "meaning": "To behave in a silly or careless way, often causing disruption.",
@@ -1332,7 +1332,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_075",
+        "id": 75,
         "idiom": "as poor as a church mouse",
         "translation": "бедный, как церковная мышь",
         "meaning": "Extremely poor; having very little money.",
@@ -1350,7 +1350,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_076",
+        "id": 76,
         "idiom": "lion's share of something",
         "translation": "львиная доля",
         "meaning": "The largest portion of something.",
@@ -1368,7 +1368,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_077",
+        "id": 77,
         "idiom": "eat like a horse",
         "translation": "иметь волчий аппетит",
         "meaning": "To eat a lot; to have a big appetite.",
@@ -1386,7 +1386,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_078",
+        "id": 78,
         "idiom": "have a tiger by the tail",
         "translation": "бросать вызов судьбе",
         "meaning": "To be involved in something difficult or dangerous that is hard to control.",
@@ -1404,7 +1404,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_079",
+        "id": 79,
         "idiom": "hear it straight from the horse's mouth",
         "translation": "из первоисточника",
         "meaning": "To get information directly from the person involved.",
@@ -1422,7 +1422,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_080",
+        "id": 80,
         "idiom": "butterflies in the stomach",
         "translation": "ни жив, ни мёртв",
         "meaning": "To feel nervous or anxious, especially before an important event.",
@@ -1440,7 +1440,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_081",
+        "id": 81,
         "idiom": "like water off a duck's back",
         "translation": "как с гуся вода",
         "meaning": "To have no effect on someone; to be easily ignored.",
@@ -1458,7 +1458,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_082",
+        "id": 82,
         "idiom": "egghead",
         "translation": "умник",
         "meaning": "A very studious or intellectual person.",
@@ -1476,7 +1476,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_083",
+        "id": 83,
         "idiom": "big cheese",
         "translation": "влиятельный человек",
         "meaning": "An important or influential person.",
@@ -1494,7 +1494,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_084",
+        "id": 84,
         "idiom": "couch potato",
         "translation": "бездельник",
         "meaning": "A person who spends a lot of time sitting and watching TV.",
@@ -1512,7 +1512,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_085",
+        "id": 85,
         "idiom": "tough cookie",
         "translation": "хулиган",
         "meaning": "A strong, determined, or resilient person.",
@@ -1530,7 +1530,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_086",
+        "id": 86,
         "idiom": "top banana",
         "translation": "лидер",
         "meaning": "The most important person in a group or organization.",
@@ -1548,7 +1548,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_087",
+        "id": 87,
         "idiom": "bad apple",
         "translation": "негодяй",
         "meaning": "A person who negatively influences others in a group.",
@@ -1566,7 +1566,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_088",
+        "id": 88,
         "idiom": "eat one's words",
         "translation": "брать назад свои слова",
         "meaning": "To admit that what one said was wrong.",
@@ -1584,7 +1584,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_089",
+        "id": 89,
         "idiom": "the apple of one's eye",
         "translation": "зеница ока",
         "meaning": "Someone who is cherished and loved deeply.",
@@ -1602,7 +1602,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_090",
+        "id": 90,
         "idiom": "hard nut to crack",
         "translation": "трудная задача",
         "meaning": "A difficult problem or person to deal with.",
@@ -1620,7 +1620,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_091",
+        "id": 91,
         "idiom": "in a nutshell",
         "translation": "вкратце",
         "meaning": "In a very brief and clear way.",
@@ -1638,7 +1638,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_092",
+        "id": 92,
         "idiom": "have egg on one's face",
         "translation": "выглядеть глупо",
         "meaning": "To be embarrassed after doing something wrong or foolish.",
@@ -1656,7 +1656,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_093",
+        "id": 93,
         "idiom": "as cool as a cucumber",
         "translation": "хладнокровный",
         "meaning": "Very calm and composed, especially under pressure.",
@@ -1674,7 +1674,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_094",
+        "id": 94,
         "idiom": "be full of beans",
         "translation": "быть энергичным",
         "meaning": "To be very energetic, lively, or enthusiastic.",
@@ -1692,7 +1692,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_095",
+        "id": 95,
         "idiom": "as slow as molasses",
         "translation": "очень медленный",
         "meaning": "Extremely slow.",
@@ -1710,7 +1710,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_096",
+        "id": 96,
         "idiom": "chew the fat",
         "translation": "лясы точить",
         "meaning": "To chat casually, especially about unimportant things.",
@@ -1728,7 +1728,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_097",
+        "id": 97,
         "idiom": "sell like hot cakes",
         "translation": "быть нарасхват",
         "meaning": "To sell very quickly and in large quantities.",
@@ -1746,7 +1746,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_098",
+        "id": 98,
         "idiom": "take something with a pinch of salt",
         "translation": "не доверять",
         "meaning": "To not completely believe something; to be skeptical.",
@@ -1764,7 +1764,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_099",
+        "id": 99,
         "idiom": "bite off more than one can chew",
         "translation": "переоценить свои возможности",
         "meaning": "To take on a task that is too difficult or too much to handle.",
@@ -1782,7 +1782,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_100",
+        "id": 100,
         "idiom": "cry over spilt milk",
         "translation": "горевать о непоправимом",
         "meaning": "To be upset about something that cannot be changed.",
@@ -1800,7 +1800,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_101",
+        "id": 101,
         "idiom": "hot potato",
         "translation": "актуальная тема",
         "meaning": "A controversial or difficult issue that people avoid dealing with.",
@@ -1818,7 +1818,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_102",
+        "id": 102,
         "idiom": "burn the midnight oil",
         "translation": "засиживаться допоздна",
         "meaning": "To work or study late into the night.",
@@ -1836,7 +1836,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_103",
+        "id": 103,
         "idiom": "hit the hay",
         "translation": "идти спать",
         "meaning": "To go to bed or go to sleep.",
@@ -1854,7 +1854,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_104",
+        "id": 104,
         "idiom": "a penny for your thoughts",
         "translation": "предложить сказать, о чём думает человек",
         "meaning": "A way to ask someone what they are thinking.",
@@ -1872,7 +1872,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_105",
+        "id": 105,
         "idiom": "bite the bullet",
         "translation": "стиснуть зубы, терпеть",
         "meaning": "To endure something unpleasant or difficult with courage.",
@@ -1890,7 +1890,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_106",
+        "id": 106,
         "idiom": "the ball is in your court",
         "translation": "теперь очередь за тобой",
         "meaning": "It’s your responsibility to take action or make a decision.",
@@ -1908,7 +1908,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_107",
+        "id": 107,
         "idiom": "pull someone's leg",
         "translation": "подшучивать над кем-то",
         "meaning": "To tease or joke with someone in a playful way.",
@@ -1926,7 +1926,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_108",
+        "id": 108,
         "idiom": "hit the nail on the head",
         "translation": "попасть в точку",
         "meaning": "To describe a situation or problem exactly and accurately.",
@@ -1944,7 +1944,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_109",
+        "id": 109,
         "idiom": "go the extra mile",
         "translation": "приложить дополнительные усилия",
         "meaning": "To do more than what is expected or required.",
@@ -1962,7 +1962,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_110",
+        "id": 110,
         "idiom": "out of the blue",
         "translation": "неожиданно",
         "meaning": "Suddenly and unexpectedly.",
@@ -1980,7 +1980,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_111",
+        "id": 111,
         "idiom": "keep an eye on",
         "translation": "присматривать за",
         "meaning": "To watch or monitor something or someone carefully.",
@@ -1998,7 +1998,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_112",
+        "id": 112,
         "idiom": "in the same boat",
         "translation": "в одинаковых обстоятельствах",
         "meaning": "To be in the same situation as someone else, especially a difficult one.",
@@ -2016,7 +2016,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_113",
+        "id": 113,
         "idiom": "call it a day",
         "translation": "закончить работу на сегодня",
         "meaning": "To stop working for the day or to end an activity.",
@@ -2034,7 +2034,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_114",
+        "id": 114,
         "idiom": "burn bridges",
         "translation": "сжигать мосты",
         "meaning": "To destroy relationships or opportunities permanently.",
@@ -2052,7 +2052,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_115",
+        "id": 115,
         "idiom": "throw in the towel",
         "translation": "сдаваться",
         "meaning": "To give up or stop trying.",
@@ -2070,7 +2070,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_116",
+        "id": 116,
         "idiom": "barking up the wrong tree",
         "translation": "идти по ложному следу",
         "meaning": "To pursue a mistaken or misguided course of action.",
@@ -2088,7 +2088,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_117",
+        "id": 117,
         "idiom": "hit the road",
         "translation": "отправиться в путь",
         "meaning": "To leave or begin a journey.",
@@ -2106,7 +2106,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_118",
+        "id": 118,
         "idiom": "play devil's advocate",
         "translation": "выступать в роли оппонента",
         "meaning": "To argue against a position for the sake of debate or testing ideas.",
@@ -2124,7 +2124,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_119",
+        "id": 119,
         "idiom": "climb the corporate ladder",
         "translation": "продвигаться по карьерной лестнице",
         "meaning": "To advance in one's career, especially within a company.",
@@ -2142,7 +2142,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_120",
+        "id": 120,
         "idiom": "hit the ground running",
         "translation": "сразу взяться за дело с энтузиазмом",
         "meaning": "To start something quickly and effectively.",
@@ -2160,7 +2160,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_121",
+        "id": 121,
         "idiom": "think outside the box",
         "translation": "мыслить нестандартно",
         "meaning": "To think creatively and differently from the usual approach.",
@@ -2178,7 +2178,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_122",
+        "id": 122,
         "idiom": "raise the bar",
         "translation": "повышать планку",
         "meaning": "To set a higher standard or level of expectation.",
@@ -2196,7 +2196,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_123",
+        "id": 123,
         "idiom": "learn the ropes",
         "translation": "изучать основы работы",
         "meaning": "To learn how to do a job or activity properly.",
@@ -2214,7 +2214,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_124",
+        "id": 124,
         "idiom": "cut corners",
         "translation": "делать халтуру",
         "meaning": "To do something in the easiest or cheapest way, often sacrificing quality.",
@@ -2232,7 +2232,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_125",
+        "id": 125,
         "idiom": "burn the candle at both ends",
         "translation": "работать на износ",
         "meaning": "To work too hard or stay up late, exhausting oneself.",
@@ -2250,7 +2250,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_126",
+        "id": 126,
         "idiom": "pull your weight",
         "translation": "вносить свой вклад",
         "meaning": "To do your fair share of work or responsibility.",
@@ -2268,7 +2268,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_127",
+        "id": 127,
         "idiom": "jump on the bandwagon",
         "translation": "присоединиться к тренду",
         "meaning": "To join others in doing something that is currently popular.",
@@ -2286,7 +2286,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_128",
+        "id": 128,
         "idiom": "a foot in the door",
         "translation": "получить возможность начать карьеру",
         "meaning": "To get an initial opportunity that could lead to something bigger.",
@@ -2304,7 +2304,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_129",
+        "id": 129,
         "idiom": "by the book",
         "translation": "делать всё строго по правилам",
         "meaning": "To follow rules or procedures exactly and strictly.",
@@ -2322,7 +2322,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_130",
+        "id": 130,
         "idiom": "on the same page",
         "translation": "быть на одной волне",
         "meaning": "To agree or understand something in the same way.",
@@ -2340,7 +2340,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_131",
+        "id": 131,
         "idiom": "put your nose to the grindstone",
         "translation": "усердно работать",
         "meaning": "To work very hard and diligently.",
@@ -2358,7 +2358,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_132",
+        "id": 132,
         "idiom": "touch base",
         "translation": "связаться, обсудить ситуацию",
         "meaning": "To make contact or briefly communicate.",
@@ -2376,7 +2376,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_133",
+        "id": 133,
         "idiom": "call the shots",
         "translation": "принимать решения",
         "meaning": "To be in control or make the decisions.",
@@ -2394,7 +2394,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_134",
+        "id": 134,
         "idiom": "behind the scenes",
         "translation": "за кулисами",
         "meaning": "Happening secretly or out of public view.",
@@ -2412,7 +2412,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_135",
+        "id": 135,
         "idiom": "at the top of your game",
         "translation": "быть на вершине успеха",
         "meaning": "To be performing at your best level.",
@@ -2430,7 +2430,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_136",
+        "id": 136,
         "idiom": "sink or swim",
         "translation": "справляться самому",
         "meaning": "To succeed or fail without help.",
@@ -2448,7 +2448,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_137",
+        "id": 137,
         "idiom": "ballpark figure",
         "translation": "приблизительная оценка",
         "meaning": "An approximate number or estimate.",
@@ -2466,7 +2466,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_138",
+        "id": 138,
         "idiom": "crunch time",
         "translation": "период срочной работы",
         "meaning": "A critical period when pressure is high and results are needed.",
@@ -2484,7 +2484,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_139",
+        "id": 139,
         "idiom": "win-win situation",
         "translation": "ситуация, в которой выигрывают все",
         "meaning": "A situation where all parties benefit.",
@@ -2502,7 +2502,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_140",
+        "id": 140,
         "idiom": "hit it off",
         "translation": "быстро подружиться",
         "meaning": "To quickly form a good relationship or connection with someone.",
@@ -2520,7 +2520,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_141",
+        "id": 141,
         "idiom": "see eye to eye",
         "translation": "сходиться во мнениях",
         "meaning": "To agree or have the same opinion.",
@@ -2538,7 +2538,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_142",
+        "id": 142,
         "idiom": "through thick and thin",
         "translation": "быть рядом в любых ситуациях",
         "meaning": "To support someone in good times and bad.",
@@ -2556,7 +2556,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_143",
+        "id": 143,
         "idiom": "a shoulder to cry on",
         "translation": "человек, которому можно поплакаться",
         "meaning": "Someone who listens and offers comfort during difficult times.",
@@ -2574,7 +2574,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_144",
+        "id": 144,
         "idiom": "speak the same language",
         "translation": "понимать друг друга без слов",
         "meaning": "To understand each other easily, often due to shared values or thinking.",
@@ -2592,7 +2592,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_145",
+        "id": 145,
         "idiom": "birds of a feather flock together",
         "translation": "люди с общими интересами тянутся друг к другу",
         "meaning": "People with similar interests or personalities tend to associate with each other.",
@@ -2610,7 +2610,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_146",
+        "id": 146,
         "idiom": "bury the hatchet",
         "translation": "помириться после ссоры",
         "meaning": "To make peace and end a conflict.",
@@ -2628,7 +2628,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_147",
+        "id": 147,
         "idiom": "fair-weather friend",
         "translation": "друг, который рядом только в хорошие времена",
         "meaning": "Someone who is only supportive when things are going well.",
@@ -2646,7 +2646,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_148",
+        "id": 148,
         "idiom": "like two peas in a pod",
         "translation": "быть очень похожими",
         "meaning": "To be very similar or close in appearance or behavior.",
@@ -2664,7 +2664,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_149",
+        "id": 149,
         "idiom": "be joined at the hip",
         "translation": "быть неразлучными друзьями",
         "meaning": "To be inseparable or always together.",
@@ -2682,7 +2682,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_150",
+        "id": 150,
         "idiom": "love at first sight",
         "translation": "любовь с первого взгляда",
         "meaning": "An immediate and strong romantic attraction to someone upon first meeting.",
@@ -2700,7 +2700,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_151",
+        "id": 151,
         "idiom": "head over heels in love",
         "translation": "быть безумно влюблённым",
         "meaning": "To be completely and deeply in love.",
@@ -2718,7 +2718,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_152",
+        "id": 152,
         "idiom": "tie the knot",
         "translation": "пожениться",
         "meaning": "To get married.",
@@ -2736,7 +2736,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_153",
+        "id": 153,
         "idiom": "pop the question",
         "translation": "сделать предложение руки и сердца",
         "meaning": "To ask someone to marry you.",
@@ -2754,7 +2754,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_154",
+        "id": 154,
         "idiom": "wear your heart on your sleeve",
         "translation": "открыто выражать чувства",
         "meaning": "To openly show your emotions and feelings.",
@@ -2772,7 +2772,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_155",
+        "id": 155,
         "idiom": "sweep someone off their feet",
         "translation": "покорить, очаровать кого-то",
         "meaning": "To impress someone greatly and make them fall in love quickly.",
@@ -2790,7 +2790,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_156",
+        "id": 156,
         "idiom": "match made in heaven",
         "translation": "идеальная пара",
         "meaning": "A perfect romantic or working partnership.",
@@ -2808,7 +2808,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_157",
+        "id": 157,
         "idiom": "break someone’s heart",
         "translation": "разбить чьё-то сердце",
         "meaning": "To cause someone emotional pain, especially in love.",
@@ -2826,7 +2826,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_158",
+        "id": 158,
         "idiom": "kiss and make up",
         "translation": "помириться после ссоры",
         "meaning": "To reconcile after an argument or disagreement.",
@@ -2844,7 +2844,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_159",
+        "id": 159,
         "idiom": "love is blind",
         "translation": "любовь слепа",
         "meaning": "When someone is in love, they may overlook faults or flaws in the other person.",
@@ -2862,7 +2862,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_160",
+        "id": 160,
         "idiom": "on the rocks",
         "translation": "отношения на грани разрыва",
         "meaning": "In serious trouble or close to failing, especially in relationships.",
@@ -2880,7 +2880,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_161",
+        "id": 161,
         "idiom": "give someone the cold shoulder",
         "translation": "игнорировать, холодно относиться",
         "meaning": "To deliberately ignore someone or treat them in an unfriendly way.",
@@ -2898,7 +2898,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_162",
+        "id": 162,
         "idiom": "have a soft spot for someone",
         "translation": "испытывать слабость к кому-то",
         "meaning": "To feel affection or fondness for someone, often despite their flaws.",
@@ -2916,7 +2916,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_163",
+        "id": 163,
         "idiom": "play hard to get",
         "translation": "строить из себя недоступного",
         "meaning": "To act uninterested or distant to increase someone’s desire or attention.",
@@ -2934,7 +2934,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_164",
+        "id": 164,
         "idiom": "a blessing in disguise",
         "translation": "неприятность, которая обернулась к лучшему",
         "meaning": "Something that seems bad at first but results in something good.",
@@ -2952,7 +2952,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_165",
+        "id": 165,
         "idiom": "the best of both worlds",
         "translation": "лучшее из двух вариантов",
         "meaning": "A situation where one can enjoy the benefits of two different things.",
@@ -2970,7 +2970,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_166",
+        "id": 166,
         "idiom": "a dime a dozen",
         "translation": "что-то очень распространённое",
         "meaning": "Very common and not particularly valuable.",
@@ -2988,7 +2988,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_167",
+        "id": 167,
         "idiom": "get a taste of your own medicine",
         "translation": "получить по заслугам",
         "meaning": "To experience the same negative treatment one has given to others.",
@@ -3006,7 +3006,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_168",
+        "id": 168,
         "idiom": "go with the flow",
         "translation": "плыть по течению",
         "meaning": "To accept things as they happen and not resist change.",
@@ -3024,7 +3024,7 @@
         "correct_option": 2
     },
     {
-        "id": "idiom_169",
+        "id": 169,
         "idiom": "bite the dust",
         "translation": "потерпеть поражение",
         "meaning": "To fail, be defeated, or die (figuratively or literally).",
@@ -3042,7 +3042,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_170",
+        "id": 170,
         "idiom": "cut to the chase",
         "translation": "перейти сразу к делу",
         "meaning": "To skip unnecessary details and get to the main point.",
@@ -3060,7 +3060,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_171",
+        "id": 171,
         "idiom": "a golden handshake",
         "translation": "щедрое выходное пособие",
         "meaning": "A large sum of money given to someone when they leave a job.",
@@ -3078,7 +3078,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_172",
+        "id": 172,
         "idiom": "rock the boat",
         "translation": "создавать проблемы",
         "meaning": "To cause trouble or disrupt a stable situation.",
@@ -3096,7 +3096,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_173",
+        "id": 173,
         "idiom": "get the ball rolling",
         "translation": "запустить процесс",
         "meaning": "To start an activity or process, especially one that leads to something bigger.",
@@ -3114,7 +3114,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_174",
+        "id": 174,
         "idiom": "work your fingers to the bone",
         "translation": "работать не покладая рук",
         "meaning": "To work extremely hard, often to the point of exhaustion.",
@@ -3132,7 +3132,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_175",
+        "id": 175,
         "idiom": "not my cup of tea",
         "translation": "не по душе",
         "meaning": "Something that one does not particularly like or enjoy.",
@@ -3150,7 +3150,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_176",
+        "id": 176,
         "idiom": "learn the hard way",
         "translation": "учиться на своих ошибках",
         "meaning": "To learn something through difficult or painful experience.",
@@ -3168,7 +3168,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_177",
+        "id": 177,
         "idiom": "steal the show",
         "translation": "быть в центре внимания",
         "meaning": "To attract the most attention or praise, often unexpectedly.",
@@ -3186,7 +3186,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_178",
+        "id": 178,
         "idiom": "go big or go home",
         "translation": "рисковать по-крупному",
         "meaning": "To commit fully and take bold action, or not bother at all.",
@@ -3204,7 +3204,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_179",
+        "id": 179,
         "idiom": "hit the bull’s eye",
         "translation": "попасть в яблочко",
         "meaning": "To be exactly right or accurate.",
@@ -3222,7 +3222,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_180",
+        "id": 180,
         "idiom": "make a name for yourself",
         "translation": "заработать себе имя",
         "meaning": "To become well-known or respected in a particular field.",
@@ -3240,7 +3240,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_181",
+        "id": 181,
         "idiom": "clinch the deal",
         "translation": "заключить сделку",
         "meaning": "To finalize or secure an agreement.",
@@ -3258,7 +3258,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_182",
+        "id": 182,
         "idiom": "be ahead of the curve",
         "translation": "быть впереди всех",
         "meaning": "To be more advanced or innovative than others.",
@@ -3276,7 +3276,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_183",
+        "id": 183,
         "idiom": "go out on a limb",
         "translation": "рискнуть ради успеха",
         "meaning": "To take a risk or support something uncertain.",
@@ -3294,7 +3294,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_184",
+        "id": 184,
         "idiom": "put your best foot forward",
         "translation": "показать себя с лучшей стороны",
         "meaning": "To make a good impression by acting positively and confidently.",
@@ -3312,7 +3312,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_201",
+        "id": 185,
         "idiom": "make waves",
         "translation": "привлекать внимание, создавать эффект",
         "meaning": "To cause a noticeable impact or attract attention, often by challenging norms.",
@@ -3330,7 +3330,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_186",
+        "id": 186,
         "idiom": "reach for the stars",
         "translation": "стремиться к большему",
         "meaning": "To aim for something very ambitious or difficult to achieve.",
@@ -3348,7 +3348,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_187",
+        "id": 187,
         "idiom": "give someone the benefit of the doubt",
         "translation": "поверить на слово",
         "meaning": "To choose to believe someone, even if you're not sure they’re telling the truth.",
@@ -3366,7 +3366,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_188",
+        "id": 188,
         "idiom": "bite the hand that feeds you",
         "translation": "кусать руку, которая тебя кормит",
         "meaning": "To harm or act against someone who helps or supports you.",
@@ -3384,7 +3384,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_189",
+        "id": 189,
         "idiom": "have someone's back",
         "translation": "поддерживать кого-то",
         "meaning": "To support and protect someone, especially in difficult situations.",
@@ -3402,7 +3402,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_190",
+        "id": 190,
         "idiom": "throw someone under the bus",
         "translation": "предать, подставить кого-то",
         "meaning": "To betray someone or sacrifice them for personal gain.",
@@ -3420,7 +3420,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_191",
+        "id": 191,
         "idiom": "like chalk and cheese",
         "translation": "быть совершенно разными",
         "meaning": "To be completely different from each other.",
@@ -3438,7 +3438,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_192",
+        "id": 192,
         "idiom": "keep someone at arm’s length",
         "translation": "держать на расстоянии",
         "meaning": "To avoid becoming too close or emotionally involved with someone.",
@@ -3456,7 +3456,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_193",
+        "id": 193,
         "idiom": "turn a blind eye",
         "translation": "закрывать глаза на что-то",
         "meaning": "To deliberately ignore something wrong or inappropriate.",
@@ -3474,7 +3474,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_194",
+        "id": 194,
         "idiom": "be in someone’s good books",
         "translation": "быть у кого-то в фаворе",
         "meaning": "To be liked or approved by someone, especially a person in authority.",
@@ -3492,7 +3492,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_195",
+        "id": 195,
         "idiom": "walk a mile in someone’s shoes",
         "translation": "поставить себя на место другого",
         "meaning": "To understand someone’s experience by imagining yourself in their situation.",
@@ -3510,7 +3510,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_196",
+        "id": 196,
         "idiom": "off the beaten track",
         "translation": "в стороне от туристических мест",
         "meaning": "In a place that is not well known or frequently visited.",
@@ -3528,7 +3528,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_197",
+        "id": 197,
         "idiom": "have itchy feet",
         "translation": "иметь страсть к путешествиям",
         "meaning": "To feel a strong desire to travel or move around.",
@@ -3546,7 +3546,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_198",
+        "id": 198,
         "idiom": "at a crossroads",
         "translation": "быть на перепутье",
         "meaning": "To be at a point where a major decision must be made.",
@@ -3564,7 +3564,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_199",
+        "id": 199,
         "idiom": "throw your hat in the ring",
         "translation": "решиться принять участие",
         "meaning": "To announce your intention to compete or participate.",
@@ -3582,7 +3582,7 @@
         "correct_option": 1
     },
     {
-        "id": "idiom_200",
+        "id": 200,
         "idiom": "live out of a suitcase",
         "translation": "постоянно быть в разъездах",
         "meaning": "To travel frequently and not stay in one place for long.",

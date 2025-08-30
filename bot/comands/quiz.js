@@ -24,10 +24,6 @@ module.exports = (bot) => {
 
     const lowest20 = [...words].sort((a, b) => a.rating - b.rating).slice(0, 20);
 
-    bot.sendMessage(chatId, JSON.stringify(
-      lowest20.map(item => ({ word: item.word, translation: item.translation, rating: item.rating})
-    ), null, 2));
-
     session.vocabularyQueue = lowest20;
     session.quizActive = true;
 
